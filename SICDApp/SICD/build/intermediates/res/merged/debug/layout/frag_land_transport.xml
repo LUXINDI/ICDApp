@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <SearchView
+            android:id="@+id/sv_apn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:iconifiedByDefault="false"
+            android:inputType="textFilter"
+            android:queryHint="Please input keywords ..."
+
+            />
+
+        <ListView
+            android:id="@+id/lv_apn"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            />
+
+     <ListView
+         android:layout_margin="10dp"
+         android:layout_width="match_parent" android:id="@+id/land_list"
+         android:layout_height="match_parent" android:dividerHeight="5dp" android:divider="@color/white"></ListView>
+
+
+
+    </LinearLayout>
+</RelativeLayout>

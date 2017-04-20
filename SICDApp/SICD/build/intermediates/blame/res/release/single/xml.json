@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\sicd\\SICDApp\\SICD\\build\\intermediates\\res\\merged\\release\\xml\\mylistpreference.xml",
+        "source": "D:\\sicd\\SICDApp\\SICD\\src\\main\\res\\xml\\mylistpreference.xml"
+    },
+    {
+        "merged": "D:\\sicd\\SICDApp0414\\SICD\\build\\intermediates\\res\\merged\\release\\xml\\mylistpreference.xml",
+        "source": "D:\\sicd\\SICDApp0414\\SICD\\src\\main\\res\\xml\\mylistpreference.xml"
+    },
+    {
+        "merged": "D:\\sicd\\SICDApp\\SICD\\build\\intermediates\\res\\merged\\release\\xml\\config.xml",
+        "source": "D:\\sicd\\SICDApp\\SICD\\src\\main\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "D:\\sicd\\SICDApp0414\\SICD\\build\\intermediates\\res\\merged\\release\\xml\\config.xml",
+        "source": "D:\\sicd\\SICDApp0414\\SICD\\src\\main\\res\\xml\\config.xml"
+    }
+]

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="search_mode">
+        <item>Forward</item>
+        <item>Fuzzy</item>
+
+
+    </string-array>
+    <string-array name="search_mode_value">
+        <item>0</item>
+        <item>1</item>
+
+
+    </string-array>
+    <string-array name="search_mode_value_2">
+        <item>0</item>
+        <item>1</item>
+
+
+    </string-array>
+    <color name="backcolor">#5CACEE</color>
+    <color name="helptext">#0080FF</color>
+    <color name="textcolor">#5CACEE</color>
+    <color name="white">#FFFFFFFF</color>
+    <declare-styleable name="CircleImageView"><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/></declare-styleable>
+    <declare-styleable name="SlidingMenu"><attr name="mode">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr><attr format="reference" name="viewAbove"/><attr format="reference" name="viewBehind"/><attr format="dimension" name="behindOffset"/><attr format="dimension" name="behindWidth"/><attr format="float" name="behindScrollScale"/><attr name="touchModeAbove">
+            <enum name="margin" value="0"/>
+            <enum name="fullscreen" value="1"/>
+        </attr><attr name="touchModeBehind">
+            <enum name="margin" value="0"/>
+            <enum name="fullscreen" value="1"/>
+        </attr><attr format="reference" name="shadowDrawable"/><attr format="dimension" name="shadowWidth"/><attr format="boolean" name="fadeEnabled"/><attr format="float" name="fadeDegree"/><attr format="boolean" name="selectorEnabled"/><attr format="reference" name="selectorDrawable"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="shadow_width">15dp</dimen>
+    <dimen name="slidingmenu_offset">80dp</dimen>
+    <item name="selected_view" type="id"/>
+    <string name="app_name">ICD 编码系统</string>
+    <string name="btn_back"><u>BACK</u></string>
+    <string name="btn_start"><u>START</u></string>
+    <string name="curversion"><u>The current version is the latest!</u></string>
+    <string name="download">数据库更新</string>
+    <string name="help1">3. Choose the ICD-10 code(s) from the selected line.</string>
+    <string name="help_link"><u>How to do ICD coding with the APN ICD-10 Simplified Version.</u></string>
+    <string name="help_link_tip">How to do ICD coding with the APN ICD-10 Simplified Version.</string>
+    <string name="help_main_1">1. <u>Help for the APN ICD-10 Simplified coding</u></string>
+    <string name="help_main_2">2. <u>Help for the APP</u></string>
+    <string name="help_page_1">1. <u>Select the appropriate section (1 to 4) to work with.</u></string>
+    <string name="help_page_2">2. <u>Using the keyword to find the diagnosis term based on the patient detail.</u></string>
+    <string name="help_page_3">3. Choose the ICD-10 code(s) from the selected line.</string>
+    <string name="home">主页</string>
+    <string name="newversion"><u>A New Version Released!</u></string>
+    <string name="quick_search_301">快捷查询-301</string>
+    <string name="quick_search_bj">快捷查询-北京</string>
+    <string name="quick_search_wsb">快捷查询-卫生部</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+    </style>
+    <style name="PreferenceTheme" parent="AppBaseTheme">
+
+        
+        
+        <item name="android:windowActionBar">false</item>
+        
+        <item name="android:windowTitleSize">42dp</item>   //titlebar的高度
+        
+    </style>
+</resources>

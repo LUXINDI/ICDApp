@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+对于该文件需要注意以下几点
+第一：位置。该文件的位置是在res/xml/下的。
+第二：格式，PreferenceScreen为根标签，ListPreference为子标签
+第三：标签属性含义
+android:key 唯一标识符，和android:id相类似，PreferenceManager可以以其为参数通过findPreference获取指定的preference
+android:title 整个屏幕的标题
+android:summary 选项的简单说明
+android:entries 弹出的对话框中，列表显示的文本内容，注意哦，这里指定的是一个数组哦
+android:entryValues 与android:entries相对应的值
+android:defaultValue 当对应值不存在时的默认值
+android:dialogTitle 弹出的对话框中的标题信息
+-->
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="screen_list"
+    android:title="Settings"
+
+    >
+    <ListPreference
+        android:key="searchMode"
+        android:title="Search Mode"
+        android:summary="Fuzzy or Forward matching"
+        android:entries="@array/search_mode"
+        android:entryValues="@array/search_mode_value"
+        android:dialogTitle="Select Search Mode"
+        android:defaultValue="@array/search_mode_value_2"
+        ></ListPreference>
+
+</PreferenceScreen>

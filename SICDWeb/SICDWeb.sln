@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SICDWeb", "SICDWeb\SICDWeb.csproj", "{DB463DA8-DF58-444E-A4AD-172AF53E000B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SICDDAL", "SICDDAL\SICDDAL.csproj", "{D25B4C32-5833-4BD8-8458-B85293BE225F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB463DA8-DF58-444E-A4AD-172AF53E000B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB463DA8-DF58-444E-A4AD-172AF53E000B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB463DA8-DF58-444E-A4AD-172AF53E000B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB463DA8-DF58-444E-A4AD-172AF53E000B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D25B4C32-5833-4BD8-8458-B85293BE225F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D25B4C32-5833-4BD8-8458-B85293BE225F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D25B4C32-5833-4BD8-8458-B85293BE225F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D25B4C32-5833-4BD8-8458-B85293BE225F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

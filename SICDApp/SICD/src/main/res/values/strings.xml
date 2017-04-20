@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">APN ICD-10 Simplified Version</string>
+
+
+	<string name="help_link"><u>How to do ICD coding with the APN ICD-10 Simplified Version.</u></string>
+
+	<string name="help_link_tip">How to do ICD coding with the APN ICD-10 Simplified Version.</string>
+
+
+	<string name="help_page_1">1. <u>Select the appropriate section (1 to 4) to work with.</u></string>
+
+	<string name="help_page_2">2. <u>Using the keyword to find the diagnosis term based on the patient detail.</u></string>
+
+	<string name="help_page_3">3. Choose the ICD-10 code(s) from the selected line.</string>
+
+	<string name="help1">3. Choose the ICD-10 code(s) from the selected line.</string>
+
+	<string name="help_main_1">1. <u>Help for the APN ICD-10 Simplified coding</u></string>
+	<string name="help_main_2">2. <u>Help for the APP</u></string>
+
+	<string name="newversion"><u>A New Version Released!</u></string>
+	<string name="curversion"><u>The current version is the latest!</u></string>
+
+	<string name="btn_start"><u>START</u></string>
+	<string name="btn_back"><u>BACK</u></string>
+</resources>

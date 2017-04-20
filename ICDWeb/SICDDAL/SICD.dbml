@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SICD" Class="SICDDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=47.93.120.189;Initial Catalog=SICD;User ID=qytoffice" SettingsObjectName="SICDDAL.Properties.Settings" SettingsPropertyName="SICDConnectionString2" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.ExternalInjurySelectSingle" Method="ExternalInjurySelectSingle">
+    <Parameter Name="Cause" Parameter="cause" Type="System.String" DbType="VarChar(200)" />
+    <ElementType Name="ExternalInjurySelectSingleResult">
+      <Column Name="Cause" Type="System.String" DbType="VarChar(8000)" CanBeNull="true" />
+      <Column Name="ICD10" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.DiseaseInjurySelectSingle" Method="DiseaseInjurySelectSingle">
+    <Parameter Name="DiagnosisTerm" Parameter="diagnosisTerm" Type="System.String" DbType="VarChar(200)" />
+    <ElementType Name="DiseaseInjurySelectSingleResult">
+      <Column Name="DiagnosisTerm" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="General" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="Congenital" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="PerinatalNeonatal" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="Pregnancy" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="Childbirth" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="Postpartum" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.DrugChemicalSelectSingle" Method="DrugChemicalSelectSingle">
+    <Parameter Name="Product" Parameter="product" Type="System.String" DbType="VarChar(200)" />
+    <ElementType Name="DrugChemicalSelectSingleResult">
+      <Column Name="DrugOrChemicalProduct" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="Poisoning" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="Accident" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="IntentionalSelfHarm" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="UnknownIntent" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="AdvesreEffect" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.ExternalCauseSelect" Method="ExternalCauseSelect">
+    <Parameter Name="Cause" Parameter="cause" Type="System.String" DbType="VarChar(200)" />
+    <Parameter Name="flag" Type="System.Int32" DbType="Int" />
+    <ElementType Name="ExternalCauseSelectResult">
+      <Column Name="Cause" Type="System.String" DbType="VarChar(8000)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.CancerTumorSelectSingle" Method="CancerTumorSelectSingle">
+    <Parameter Name="Keywords" Parameter="keywords" Type="System.String" DbType="VarChar(200)" />
+    <ElementType Name="CancerTumorSelectSingleResult">
+      <Column Name="keyword" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="[Primary]" Member="Primary" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="Secondary" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="insitu" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="benign" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="tumor" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="Remark" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.LandTransportSelectSingle" Method="LandTransportSelectSingle">
+    <Parameter Name="Keyword1" Parameter="keyword1" Type="System.String" DbType="VarChar(200)" />
+    <ElementType Name="LandTransportSelectSingleResult">
+      <Column Name="Keyword1" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Keyword2" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Code" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.LandTransportSelect" Method="LandTransportSelect">
+    <Parameter Name="Keywords" Parameter="keywords" Type="System.String" DbType="VarChar(200)" />
+    <Parameter Name="Flag" Parameter="flag" Type="System.Int32" DbType="Int" />
+    <ElementType Name="LandTransportSelectResult">
+      <Column Name="Keyword1" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Keyword2" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.CancerTumorSelect" Method="CancerTumorSelect">
+    <Parameter Name="Keywords" Parameter="keywords" Type="System.String" DbType="VarChar(200)" />
+    <Parameter Name="Flag" Parameter="flag" Type="System.Int32" DbType="Int" />
+    <ElementType Name="CancerTumorSelectResult">
+      <Column Name="keyword" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.DiseaseInjurySelect" Method="DiseaseInjurySelect">
+    <Parameter Name="DiagnosisTerm" Parameter="diagnosisTerm" Type="System.String" DbType="VarChar(200)" />
+    <Parameter Name="Flag" Parameter="flag" Type="System.Int32" DbType="Int" />
+    <ElementType Name="DiseaseInjurySelectResult">
+      <Column Name="DiagnosisTerm" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.DrugChemicalSelect" Method="DrugChemicalSelect">
+    <Parameter Name="Product" Parameter="product" Type="System.String" DbType="VarChar(200)" />
+    <Parameter Name="flag" Type="System.Int32" DbType="Int" />
+    <ElementType Name="DrugChemicalSelectResult">
+      <Column Name="DrugOrChemicalProduct" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.QuickSearch301Select" Method="QuickSearch301Select">
+    <Parameter Name="Keywords" Parameter="keywords" Type="System.String" DbType="VarChar(255)" />
+    <Parameter Name="Flag" Parameter="flag" Type="System.Int32" DbType="Int" />
+    <ElementType Name="QuickSearch301SelectResult">
+      <Column Name="term" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.QuickSearch301SelectSingle" Method="QuickSearch301SelectSingle">
+    <Parameter Name="Keywords" Parameter="keywords" Type="System.String" DbType="VarChar(200)" />
+    <ElementType Name="QuickSearch301SelectSingleResult">
+      <Column Name="icd_code" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Star_code" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="term" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.QuickSearchBjSelect" Method="QuickSearchBjSelect">
+    <Parameter Name="Keywords" Parameter="keywords" Type="System.String" DbType="VarChar(255)" />
+    <Parameter Name="Flag" Parameter="flag" Type="System.Int32" DbType="Int" />
+    <ElementType Name="QuickSearchBjSelectResult">
+      <Column Name="term" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.QuickSearchBjSelectSingle" Method="QuickSearchBjSelectSingle">
+    <Parameter Name="Keywords" Parameter="keywords" Type="System.String" DbType="VarChar(200)" />
+    <ElementType Name="QuickSearchBjSelectSingleResult">
+      <Column Name="icd_code" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Star_code" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="term" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.QuickSearchWsbSelect" Method="QuickSearchWsbSelect">
+    <Parameter Name="Keywords" Parameter="keywords" Type="System.String" DbType="VarChar(255)" />
+    <Parameter Name="Flag" Parameter="flag" Type="System.Int32" DbType="Int" />
+    <ElementType Name="QuickSearchWsbSelectResult">
+      <Column Name="term" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.QuickSearchWsbSelectSingle" Method="QuickSearchWsbSelectSingle">
+    <Parameter Name="Keywords" Parameter="keywords" Type="System.String" DbType="VarChar(200)" />
+    <ElementType Name="QuickSearchWsbSelectSingleResult">
+      <Column Name="icd_code" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="Star_code" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="term" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+</Database>

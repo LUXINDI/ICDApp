@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "D:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\xml\\mylistpreference.xml",
+        "source": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\xml\\mylistpreference.xml"
+    }
+]

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\sicd\ICDApp\ICD\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="D:\sicd\ICDApp\ICD\build\intermediates\pre-dexed\debug\gson-2.2.4_333729953f1ecd8caf9955b5a5041092081db6f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sicd\ICDApp\ICD\libs\cordova-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37a563bbb7809206e09b063fda0a7df9d6ef3e92">
+        <dex dex="D:\sicd\ICDApp\ICD\build\intermediates\pre-dexed\debug\cordova-2.8.0_b39be38c7f59c14642cd97477b4b608a9d2b9ae1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sicd\SICDApp0414\SICD\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="D:\sicd\SICDApp0414\SICD\build\intermediates\pre-dexed\debug\gson-2.2.4_07156207dd2eaea60dd73d81b45cc49f3a8be632.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sicd\ICDApp\slidingmenu_library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="652495086c020ddce0edcfd515b83ec9ebcf2b0e">
+        <dex dex="D:\sicd\ICDApp\ICD\build\intermediates\pre-dexed\debug\classes_03f92a12505ddcabf06ae04203bd0b3f23485a38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sicd\SICDApp0414\slidingmenu_library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="652495086c020ddce0edcfd515b83ec9ebcf2b0e">
+        <dex dex="D:\sicd\SICDApp0414\SICD\build\intermediates\pre-dexed\debug\classes_50869fedc2b373a6f09a3a6f5c6e593622e28553.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sicd\SICDApp0414\SICD\libs\cordova-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37a563bbb7809206e09b063fda0a7df9d6ef3e92">
+        <dex dex="D:\sicd\SICDApp0414\SICD\build\intermediates\pre-dexed\debug\cordova-2.8.0_c7bbab9a3f75f8c6f9e5cf80546744a60ed92d9e.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,17 @@
+C:\Resources\我的项目\清华ICD\Web\SICDWeb\SICDDAL\bin\Release\SICDDAL.dll.config
+C:\Resources\我的项目\清华ICD\Web\SICDWeb\SICDDAL\bin\Release\SICDDAL.dll
+C:\Resources\我的项目\清华ICD\Web\SICDWeb\SICDDAL\bin\Release\SICDDAL.pdb
+C:\Resources\我的项目\清华ICD\Web\SICDWeb\SICDDAL\obj\Release\SICDDAL.dll
+C:\Resources\我的项目\清华ICD\Web\SICDWeb\SICDDAL\obj\Release\SICDDAL.pdb
+C:\Resources\我的项目\清华ICD\SVN\SICDWeb\SICDDAL\bin\Release\SICDDAL.dll.config
+C:\Resources\我的项目\清华ICD\SVN\SICDWeb\SICDDAL\bin\Release\SICDDAL.dll
+C:\Resources\我的项目\清华ICD\SVN\SICDWeb\SICDDAL\bin\Release\SICDDAL.pdb
+C:\Resources\我的项目\清华ICD\SVN\SICDWeb\SICDDAL\obj\Release\SICDDAL.csprojResolveAssemblyReference.cache
+C:\Resources\我的项目\清华ICD\SVN\SICDWeb\SICDDAL\obj\Release\SICDDAL.dll
+C:\Resources\我的项目\清华ICD\SVN\SICDWeb\SICDDAL\obj\Release\SICDDAL.pdb
+D:\SICDWeb\SICDDAL\bin\Release\SICDDAL.dll.config
+D:\SICDWeb\SICDDAL\bin\Release\SICDDAL.dll
+D:\SICDWeb\SICDDAL\bin\Release\SICDDAL.pdb
+D:\SICDWeb\SICDDAL\obj\Release\SICDDAL.csprojResolveAssemblyReference.cache
+D:\SICDWeb\SICDDAL\obj\Release\SICDDAL.dll
+D:\SICDWeb\SICDDAL\obj\Release\SICDDAL.pdb
