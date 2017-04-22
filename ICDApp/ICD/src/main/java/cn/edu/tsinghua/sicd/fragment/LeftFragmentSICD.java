@@ -53,7 +53,7 @@ public class LeftFragmentSICD extends Fragment implements OnClickListener{
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
 			Bundle savedInstanceState) {
-		View view = inflater.inflate(R.layout.layout_menu_icd, null);
+		View view = inflater.inflate(R.layout.layout_menu_sicd, null);
 		findViews(view);
 		this.rootView=view;
 		

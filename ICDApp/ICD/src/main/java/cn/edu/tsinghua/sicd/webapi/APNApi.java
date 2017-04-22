@@ -399,4 +399,6 @@ public class APNApi {
 
         return server.call("post", "QuickSearchWsb", new String[]{"Term"}, new String[]{inputTerm});
     }
+
+
 }
