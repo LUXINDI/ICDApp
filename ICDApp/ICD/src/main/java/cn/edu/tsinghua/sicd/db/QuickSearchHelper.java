@@ -10,7 +10,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 public class QuickSearchHelper extends SQLiteOpenHelper {
 
-    private static final String DB_NAME = "Cancer.db"; //数据库名称
+    private static final String DB_NAME = "QuickSearch.db"; //数据库名称
     private static final int version = 1; //数据库版本
 
     public QuickSearchHelper(Context context) {
@@ -20,13 +20,9 @@ public class QuickSearchHelper extends SQLiteOpenHelper {
 
     @Override
     public void onCreate(SQLiteDatabase db) {
-        String sql = "create table tbldiagnosis_301(keyword varchar(100) not null, [Primary] varchar(255)," +
-                "secondary varchar(255),"+
-                "insitu varchar(255),"+
-                "benign varchar(255),"+
-                "tumor varchar(255),"+
-                "remark varchar(255),"+
-                "data text"+
+        String sql = "create table tbldiagnosis_301(term varchar(100) not null, [Primary] varchar(255)," +
+                "icd_code(255),"+
+                "Star_code(255),"+
                 " );";
         db.execSQL(sql);
     }

@@ -8,11 +8,13 @@
     <string name="quick_search_wsb">快捷查询-卫生部</string>
 	<string name="download">数据库更新</string>
 
+	<string name="introduction">这是一个ICD编码系统</string>
 
 
-	<string name="help_link"><u>How to do ICD coding with the APN ICD-10 Simplified Version.</u></string>
 
-	<string name="help_link_tip">How to do ICD coding with the APN ICD-10 Simplified Version.</string>
+	<string name="help_link"><u>如何进行ICD编码</u></string>
+
+	<string name="help_link_tip">如何进行ICD编码</string>
 
 
 	<string name="help_page_1">1. <u>Select the appropriate section (1 to 4) to work with.</u></string>
@@ -27,8 +29,8 @@
 	<string name="help_main_2">2. <u>Help for the APP</u></string>
 
 	<string name="newversion"><u>A New Version Released!</u></string>
-	<string name="curversion"><u>The current version is the latest!</u></string>
+	<string name="curversion"><u>该版本为最新版本！</u></string>
 
-	<string name="btn_start"><u>START</u></string>
+	<string name="btn_start"><u>开始</u></string>
 	<string name="btn_back"><u>BACK</u></string>
 </resources>

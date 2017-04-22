@@ -15,6 +15,7 @@
 
     <application
         android:allowBackup="true"
+        android:configChanges="locale"
         android:icon="@drawable/app_logo_desktop_icd"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >

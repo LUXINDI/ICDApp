@@ -179,10 +179,11 @@ int string help_page_1 0x7f0a000a
 int string help_page_2 0x7f0a000b
 int string help_page_3 0x7f0a000c
 int string home 0x7f0a000d
-int string newversion 0x7f0a000e
-int string quick_search_301 0x7f0a000f
-int string quick_search_bj 0x7f0a0010
-int string quick_search_wsb 0x7f0a0011
+int string introduction 0x7f0a000e
+int string newversion 0x7f0a000f
+int string quick_search_301 0x7f0a0010
+int string quick_search_bj 0x7f0a0011
+int string quick_search_wsb 0x7f0a0012
 int style AppBaseTheme 0x7f050000
 int style AppTheme 0x7f050001
 int style PreferenceTheme 0x7f050002

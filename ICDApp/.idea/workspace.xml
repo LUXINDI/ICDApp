@@ -10,289 +10,289 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="f429cbcd-79de-460c-9f77-c49821e08860" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/models/DiseaseInjuryPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/models/CausePage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/db/ICD10DatabaseHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/models/LandPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/utils/SharedPreferencesMgr.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/db/LandDatabaseHelper.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/db/CancerDatabaseHelper.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/models/CancerPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/models/CausePage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/db/ICD10DatabaseHelper.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/db/DrugDatabaseHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/db/LandDatabaseHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SICD/src/main/res/layout/fragment_update.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/db" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/fragment/UpdateFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/models/DrugPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/models/DiseaseInjuryPage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/utils/SharedPreferencesMgr.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/models/LandPage.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/db/DiseaseInjuryDatabaseHelper.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_18_0_0.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SICD/src/main/res/layout/fragment_update.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/models/DrugPage.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/cordova_2_8_0.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/gson_2_2_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$SearchForProduct.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$SearchForProduct.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/debug/layout/frag_disease_injury.xml" afterPath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/debug/layout/frag_disease_injury.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$string.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/webapi/APNApi.java" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/webapi/APNApi.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/view/CircleImageView.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/view/CircleImageView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$SearchForAPN$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$SearchForAPN$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$SearchForCancer$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$SearchForCancer$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/blame/res/release/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/SICD/build/intermediates/blame/res/release/single/drawable-xhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/MainActivity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$4.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/BuildConfig.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/BuildConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$SearchForCauseList$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$SearchForCauseList$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$OnItemClickListenerImpl.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$OnItemClickListenerImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$MYViewPagerAdapter.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$MYViewPagerAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$MYViewPagerAdapter.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$MYViewPagerAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HtmlFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HtmlFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HomeFragment$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HomeFragment$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/Help1Activity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/Help1Activity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpActivity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$menu.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LeftFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LeftFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/RawWebApiServer.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/RawWebApiServer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/SubMenuFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/SubMenuFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpActivity$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/Help1Activity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/Help1Activity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/Help2Activity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/Help2Activity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/PreferenceUtils.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/PreferenceUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/adapter/LandAdapter.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/adapter/LandAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/SimpleThreadHandler.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/SimpleThreadHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/generated/source/r/release/com/jeremyfeinstein/slidingmenu/lib/R.java" afterPath="$PROJECT_DIR$/SICD/build/generated/source/r/release/com/jeremyfeinstein/slidingmenu/lib/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/MainActivity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/MainActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$4.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$SearchForProduct.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$SearchForProduct.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/release/layout/layout_menu.xml" afterPath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/release/layout/layout_menu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$OnItemClickListenerImpl.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$OnItemClickListenerImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$OnItemClickListenerImpl.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$OnItemClickListenerImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TestActivity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TestActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/SICD/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/blame/res/release/single/layout.json" afterPath="$PROJECT_DIR$/SICD/build/intermediates/blame/res/release/single/layout.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HomeFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HomeFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$layout.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/webapi/APNApi.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/webapi/APNApi.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/com/jeremyfeinstein/slidingmenu/lib/R$id.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/com/jeremyfeinstein/slidingmenu/lib/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/com/jeremyfeinstein/slidingmenu/lib/R$layout.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/com/jeremyfeinstein/slidingmenu/lib/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$SearchForAPNSingle.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$SearchForAPNSingle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/incremental/mergeReleaseResources/merger.xml" afterPath="$PROJECT_DIR$/SICD/build/intermediates/incremental/mergeReleaseResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/debug/layout/layout_menu.xml" afterPath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/debug/layout/layout_menu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/release/layout/activity_main.xml" afterPath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/release/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HomeFragment$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HomeFragment$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/SICD/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/debug/layout/frag_home.xml" afterPath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/debug/layout/frag_home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/generated/source/r/release/cn/edu/tsinghua/sicd/R.java" afterPath="$PROJECT_DIR$/SICD/build/generated/source/r/release/cn/edu/tsinghua/sicd/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/pre-dexed/debug/debug_cd51fcf9992ee0708a025ca5042ff9f64b0f6abb.jar" afterPath="$PROJECT_DIR$/SICD/build/intermediates/pre-dexed/debug/debug_cd51fcf9992ee0708a025ca5042ff9f64b0f6abb.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$drawable.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/debug/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/MyPreferencesActivity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/MyPreferencesActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HomeFragment$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HomeFragment$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpActivity$4.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpActivity$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/SubMenuFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/SubMenuFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/adapter/LandAdapter$MyOnClickListener.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/adapter/LandAdapter$MyOnClickListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$SearchForProduct$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$SearchForProduct$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HomeFragment$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HomeFragment$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$SearchForCauseSingle.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$SearchForCauseSingle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/outputs/lint-results-release-fatal.html" afterPath="$PROJECT_DIR$/SICD/build/outputs/lint-results-release-fatal.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$styleable.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/fragment/LeftFragment.java" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/fragment/LeftFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$SearchForCancer$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$SearchForCancer$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HomeFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HomeFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/AppUpdateHandler.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/AppUpdateHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/MetaUtils.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/MetaUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$styleable.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/MyPreferencesActivity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/MyPreferencesActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/outputs/apk/SICD-debug.apk" afterPath="$PROJECT_DIR$/SICD/build/outputs/apk/SICD-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$SearchForProductSingle.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$SearchForProductSingle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpActivity$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/com/jeremyfeinstein/slidingmenu/lib/R.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/com/jeremyfeinstein/slidingmenu/lib/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/SICD-release.apk" afterPath="$PROJECT_DIR$/SICD/SICD-release.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/generated/source/buildConfig/debug/cn/edu/tsinghua/sicd/BuildConfig.java" afterPath="$PROJECT_DIR$/SICD/build/generated/source/buildConfig/debug/cn/edu/tsinghua/sicd/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpActivity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/SubMenuFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/SubMenuFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/com/jeremyfeinstein/slidingmenu/lib/R$id.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/com/jeremyfeinstein/slidingmenu/lib/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HomeFragment$4.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HomeFragment$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$SearchForAPN.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$SearchForAPN.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/SICD/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$layout.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$SearchForCancer.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$SearchForCancer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HtmlFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HtmlFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HtmlFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HtmlFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$SearchForCauseList.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$SearchForCauseList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/generated/source/r/debug/cn/edu/tsinghua/sicd/R.java" afterPath="$PROJECT_DIR$/SICD/build/generated/source/r/debug/cn/edu/tsinghua/sicd/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLandSingle.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLandSingle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpActivity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/Help2Activity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/Help2Activity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$OnItemClickListenerImpl.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$OnItemClickListenerImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/Help2Activity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/Help2Activity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/MyPreferencesActivity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/MyPreferencesActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/SICD/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/res/resources-release.ap_" afterPath="$PROJECT_DIR$/SICD/build/intermediates/res/resources-release.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HomeFragment$2$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HomeFragment$2$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$SearchForCancerSingle.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$SearchForCancerSingle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/webapi/APNApi.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/webapi/APNApi.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/MySettingsFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/MySettingsFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TestActivity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TestActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/SICD/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/SimpleThreadHandler$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/SimpleThreadHandler$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/release/layout/frag_disease_injury.xml" afterPath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/release/layout/frag_disease_injury.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/SubMenuFragment$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/SubMenuFragment$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/SubMenuFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/SubMenuFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpMainActivity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpMainActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/MyPreferencesActivity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/MyPreferencesActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/generated/source/buildConfig/release/cn/edu/tsinghua/sicd/BuildConfig.java" afterPath="$PROJECT_DIR$/SICD/build/generated/source/buildConfig/release/cn/edu/tsinghua/sicd/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$SearchForCancerSingle.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$SearchForCancerSingle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/adapter/LandAdapter.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/adapter/LandAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$string.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpActivity$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLand.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLand.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLand$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLand$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$SearchForCauseSingle.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$SearchForCauseSingle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpMainActivity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpMainActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/SimpleThreadHandler$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/SimpleThreadHandler$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/adapter/LandAdapter$MyOnClickListener.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/adapter/LandAdapter$MyOnClickListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpMainActivity$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpMainActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpMainActivity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpMainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HomeFragment$2$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HomeFragment$2$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/outputs/apk/SICD-release-unaligned.apk" afterPath="$PROJECT_DIR$/SICD/build/outputs/apk/SICD-release-unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/PreferenceUtils.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/PreferenceUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/SICD/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/Help1Activity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/Help1Activity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/manifests/full/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/SICD/build/intermediates/manifests/full/release/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpActivity$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/generated/source/r/debug/com/jeremyfeinstein/slidingmenu/lib/R.java" afterPath="$PROJECT_DIR$/SICD/build/generated/source/r/debug/com/jeremyfeinstein/slidingmenu/lib/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLandSingle.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLandSingle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HomeFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HomeFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$OnItemClickListenerImpl.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$OnItemClickListenerImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/SubMenuFragment$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/SubMenuFragment$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$OnItemClickListenerImpl.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$OnItemClickListenerImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/symbols/release/R.txt" afterPath="$PROJECT_DIR$/SICD/build/intermediates/symbols/release/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$OnItemClickListenerImpl.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$OnItemClickListenerImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/MySettingsFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/MySettingsFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/MainActivity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/MainActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$SearchForProductSingle.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$SearchForProductSingle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$style.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_18_0_0.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$OnItemClickListenerImpl.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$OnItemClickListenerImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpActivity$4.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpActivity$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLand$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLand$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/com/jeremyfeinstein/slidingmenu/lib/R$layout.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/com/jeremyfeinstein/slidingmenu/lib/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$4.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/pre-dexed/release/release_d79811fe4cf32aa1cc3d797fd14aadd9f86495ba.jar" afterPath="$PROJECT_DIR$/SICD/build/intermediates/pre-dexed/release/release_d79811fe4cf32aa1cc3d797fd14aadd9f86495ba.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$style.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/fragment/HomeFragment.java" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/fragment/HomeFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$4.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/MainActivity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/src/main/res/layout/layout_menu.xml" afterPath="$PROJECT_DIR$/SICD/src/main/res/layout/layout_menu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/MetaUtils.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/MetaUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$SearchForAPNSingle.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$SearchForAPNSingle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLandSingle$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLandSingle$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/SICD/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HtmlFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HtmlFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/MainActivity.java" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelpActivity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelpActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpMainActivity$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpMainActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpMainActivity$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpMainActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/SimpleThreadHandler.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/SimpleThreadHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/SimpleThreadHandler$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/SimpleThreadHandler$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$SearchForCauseList$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$SearchForCauseList$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$SearchForCauseList.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$SearchForCauseList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$OnItemClickListenerImpl.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$OnItemClickListenerImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/SimpleThreadHandler$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/SimpleThreadHandler$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/res/resources-release.ap_" afterPath="$PROJECT_DIR$/SICD/build/intermediates/res/resources-release.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/release/layout/activity_main.xml" afterPath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/release/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpActivity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/release/layout/layout_menu.xml" afterPath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/release/layout/layout_menu.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/SICD/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$OnItemClickListenerImpl.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$OnItemClickListenerImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/PreferenceUtils.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/PreferenceUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$OnItemClickListenerImpl.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$OnItemClickListenerImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/com/jeremyfeinstein/slidingmenu/lib/R$id.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/com/jeremyfeinstein/slidingmenu/lib/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$SearchForCauseSingle.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$SearchForCauseSingle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/SICD/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/MyPreferencesActivity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/MyPreferencesActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/SICD/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$SearchForProductSingle.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$SearchForProductSingle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HomeFragment$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HomeFragment$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/MyPreferencesActivity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/MyPreferencesActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$SearchForProduct.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$SearchForProduct.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/MainActivity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/MainActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelpActivity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelpActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$SearchForCauseList$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$SearchForCauseList$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/outputs/lint-results-release-fatal.html" afterPath="$PROJECT_DIR$/SICD/build/outputs/lint-results-release-fatal.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$4.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HomeFragment$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HomeFragment$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$SearchForProduct.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$SearchForProduct.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$SearchForAPN$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$SearchForAPN$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$string.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$SearchForAPN.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$SearchForAPN.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/view/CircleImageView.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/view/CircleImageView.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/SubMenuFragment$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/SubMenuFragment$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$SearchForCancer$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$SearchForCancer$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$layout.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$styleable.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/com/jeremyfeinstein/slidingmenu/lib/R.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/com/jeremyfeinstein/slidingmenu/lib/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HomeFragment$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HomeFragment$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$OnItemClickListenerImpl.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$OnItemClickListenerImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$menu.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/models/DrugChemicalSelectResult.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/models/DrugChemicalSelectResult.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/adapter/LandAdapter$ViewHolder.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/adapter/LandAdapter$ViewHolder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpActivity$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/Help2Activity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/Help2Activity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/release/layout/frag_home.xml" afterPath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/release/layout/frag_home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/SICD/build/intermediates/blame/res/debug/single/layout.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpMainActivity$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpMainActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpMainActivity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpMainActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HomeFragment$4.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HomeFragment$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/generated/source/r/debug/cn/edu/tsinghua/sicd/R.java" afterPath="$PROJECT_DIR$/SICD/build/generated/source/r/debug/cn/edu/tsinghua/sicd/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$string.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$string.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$MYViewPagerAdapter.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$MYViewPagerAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$SearchForCancer.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$SearchForCancer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/BuildConfig.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/BuildConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/Help2Activity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/Help2Activity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/Help1Activity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/Help1Activity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLand.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HomeFragment$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HomeFragment$2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLandSingle$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLandSingle$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/Help1Activity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/Help1Activity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/models/DrugChemicalSelectResult.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/models/DrugChemicalSelectResult.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/outputs/apk/SICD-debug-unaligned.apk" afterPath="$PROJECT_DIR$/SICD/build/outputs/apk/SICD-debug-unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpActivity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/SICD/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TestActivity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TestActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/SimpleThreadHandler$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/SimpleThreadHandler$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLand.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLand.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$xml.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$xml.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/com/jeremyfeinstein/slidingmenu/lib/R.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/com/jeremyfeinstein/slidingmenu/lib/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HomeFragment$4.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HomeFragment$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$xml.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$xml.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$id.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$SearchForAPN$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$SearchForAPN$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/outputs/logs/manifest-merger-release-report.txt" afterPath="$PROJECT_DIR$/SICD/build/outputs/logs/manifest-merger-release-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$id.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/models/DrugChemicalSelectResult.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/models/DrugChemicalSelectResult.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$menu.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpMainActivity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpMainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelpActivity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelpActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/AppUpdateHandler.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/AppUpdateHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HomeFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HomeFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpMainActivity$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpMainActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LeftFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LeftFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/adapter/LandAdapter$ViewHolder.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/adapter/LandAdapter$ViewHolder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TestActivity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TestActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$drawable.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$MYViewPagerAdapter.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$MYViewPagerAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/RawWebApiServer.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/RawWebApiServer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$SearchForAPN.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$SearchForAPN.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$SearchForProduct$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$SearchForProduct$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/adapter/LandAdapter$ViewHolder.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/adapter/LandAdapter$ViewHolder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$xml.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$xml.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/symbols/release/R.txt" afterPath="$PROJECT_DIR$/SICD/build/intermediates/symbols/release/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/adapter/LandAdapter.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/adapter/LandAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/MainActivity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/MetaUtils.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/MetaUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpActivity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/SICD/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/MyPreferencesActivity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/MyPreferencesActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpActivity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$SearchForCancerSingle.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$SearchForCancerSingle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/MySettingsFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/MySettingsFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/SimpleThreadHandler$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/SimpleThreadHandler$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$SearchForCauseList$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$SearchForCauseList$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$OnItemClickListenerImpl.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$OnItemClickListenerImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HomeFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HomeFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/debug/layout/frag_home.xml" afterPath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/debug/layout/frag_home.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/PreferenceUtils.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/PreferenceUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$SearchForCancer$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$SearchForCancer$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$SearchForProductSingle.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$SearchForProductSingle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$id.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$SearchForCauseList.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$SearchForCauseList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HomeFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HomeFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/MainActivity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/MainActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/adapter/LandAdapter.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/adapter/LandAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/manifests/full/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/SICD/build/intermediates/manifests/full/release/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/incremental/mergeReleaseResources/merger.xml" afterPath="$PROJECT_DIR$/SICD/build/intermediates/incremental/mergeReleaseResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/SICD/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$4.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/RawWebApiServer.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/RawWebApiServer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/com/jeremyfeinstein/slidingmenu/lib/R$id.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/com/jeremyfeinstein/slidingmenu/lib/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLand.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$MYViewPagerAdapter.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$MYViewPagerAdapter.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/view/CircleImageView.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/view/CircleImageView.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/SICD/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpActivity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/generated/source/buildConfig/debug/cn/edu/tsinghua/sicd/BuildConfig.java" afterPath="$PROJECT_DIR$/SICD/build/generated/source/buildConfig/debug/cn/edu/tsinghua/sicd/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/debug/layout/frag_disease_injury.xml" afterPath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/debug/layout/frag_disease_injury.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/SubMenuFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/SubMenuFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpMainActivity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpMainActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$OnItemClickListenerImpl.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$OnItemClickListenerImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/generated/source/r/release/cn/edu/tsinghua/sicd/R.java" afterPath="$PROJECT_DIR$/SICD/build/generated/source/r/release/cn/edu/tsinghua/sicd/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$style.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLandSingle.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLandSingle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/debug/layout/layout_menu.xml" afterPath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/debug/layout/layout_menu.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$SearchForCancer.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$SearchForCancer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$MYViewPagerAdapter.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$MYViewPagerAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$SearchForCauseSingle.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$SearchForCauseSingle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/BuildConfig.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/BuildConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TestActivity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TestActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpMainActivity$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpMainActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpActivity$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/com/jeremyfeinstein/slidingmenu/lib/R.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/com/jeremyfeinstein/slidingmenu/lib/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/generated/source/r/debug/com/jeremyfeinstein/slidingmenu/lib/R.java" afterPath="$PROJECT_DIR$/SICD/build/generated/source/r/debug/com/jeremyfeinstein/slidingmenu/lib/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/SICD/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/debug/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/outputs/logs/manifest-merger-release-report.txt" afterPath="$PROJECT_DIR$/SICD/build/outputs/logs/manifest-merger-release-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpActivity$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/adapter/LandAdapter$MyOnClickListener.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/adapter/LandAdapter$MyOnClickListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelpActivity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelpActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/SimpleThreadHandler$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/SimpleThreadHandler$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/webapi/APNApi.java" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/webapi/APNApi.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$drawable.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/SubMenuFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/SubMenuFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/blame/res/release/single/layout.json" afterPath="$PROJECT_DIR$/SICD/build/intermediates/blame/res/release/single/layout.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/src/main/res/layout/layout_menu.xml" afterPath="$PROJECT_DIR$/SICD/src/main/res/layout/layout_menu.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$drawable.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpMainActivity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpMainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/Help1Activity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/Help1Activity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/Help1Activity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/Help1Activity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/SICD/build/intermediates/symbols/debug/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HomeFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HomeFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$SearchForAPN.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$SearchForAPN.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/AppUpdateHandler.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/AppUpdateHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$SearchForProduct$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$SearchForProduct$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TestActivity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TestActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HomeFragment$2$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HomeFragment$2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/fragment/HomeFragment.java" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/fragment/HomeFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$SearchForCauseList.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$SearchForCauseList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TestActivity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TestActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/pre-dexed/release/release_d79811fe4cf32aa1cc3d797fd14aadd9f86495ba.jar" afterPath="$PROJECT_DIR$/SICD/build/intermediates/pre-dexed/release/release_d79811fe4cf32aa1cc3d797fd14aadd9f86495ba.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$SearchForCancer.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$SearchForCancer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HtmlFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HtmlFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$styleable.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLand$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLand$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$SearchForCancerSingle.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$SearchForCancerSingle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/Help2Activity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/Help2Activity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/MyPreferencesActivity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/MyPreferencesActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/fragment/LeftFragment.java" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/fragment/LeftFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/outputs/apk/SICD-release-unaligned.apk" afterPath="$PROJECT_DIR$/SICD/build/outputs/apk/SICD-release-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HomeFragment$2$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HomeFragment$2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$4.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TestActivity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TestActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/pre-dexed/debug/debug_cd51fcf9992ee0708a025ca5042ff9f64b0f6abb.jar" afterPath="$PROJECT_DIR$/SICD/build/intermediates/pre-dexed/debug/debug_cd51fcf9992ee0708a025ca5042ff9f64b0f6abb.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$SearchForProduct$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$SearchForProduct$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/Help1Activity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/Help1Activity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$layout.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpActivity$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpActivity$4.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/HelpActivity$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/outputs/apk/SICD-debug.apk" afterPath="$PROJECT_DIR$/SICD/build/outputs/apk/SICD-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LeftFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LeftFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/Help2Activity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/Help2Activity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/BuildConfig.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/BuildConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/adapter/LandAdapter$MyOnClickListener.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/adapter/LandAdapter$MyOnClickListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$4.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/blame/res/release/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/SICD/build/intermediates/blame/res/release/single/drawable-xhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$menu.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$OnItemClickListenerImpl.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment$OnItemClickListenerImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/SimpleThreadHandler$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/SimpleThreadHandler$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HomeFragment$4.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HomeFragment$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$xml.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$xml.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/generated/source/r/release/com/jeremyfeinstein/slidingmenu/lib/R.java" afterPath="$PROJECT_DIR$/SICD/build/generated/source/r/release/com/jeremyfeinstein/slidingmenu/lib/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$OnItemClickListenerImpl.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$OnItemClickListenerImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/generated/source/buildConfig/release/cn/edu/tsinghua/sicd/BuildConfig.java" afterPath="$PROJECT_DIR$/SICD/build/generated/source/buildConfig/release/cn/edu/tsinghua/sicd/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/RawWebApiServer.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/RawWebApiServer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HtmlFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HtmlFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLandSingle$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLandSingle$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$OnItemClickListenerImpl.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$OnItemClickListenerImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/SimpleThreadHandler.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/SimpleThreadHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$OnItemClickListenerImpl.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment$OnItemClickListenerImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/SICD/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/outputs/apk/SICD-debug-unaligned.apk" afterPath="$PROJECT_DIR$/SICD/build/outputs/apk/SICD-debug-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/SubMenuFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/SubMenuFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/SubMenuFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/SubMenuFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LeftFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LeftFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpMainActivity$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpMainActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/MySettingsFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/MySettingsFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$OnItemClickListenerImpl.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/CancerTumorFragment$OnItemClickListenerImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/AppUpdateHandler$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/com/jeremyfeinstein/slidingmenu/lib/R$layout.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/com/jeremyfeinstein/slidingmenu/lib/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/SimpleThreadHandler.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/SimpleThreadHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpMainActivity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpMainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/AppUpdateHandler.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/utils/AppUpdateHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/release/layout/frag_disease_injury.xml" afterPath="$PROJECT_DIR$/SICD/build/intermediates/res/merged/release/layout/frag_disease_injury.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/webapi/APNApi.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/webapi/APNApi.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/SICD/build/intermediates/blame/res/debug/single/layout.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/com/jeremyfeinstein/slidingmenu/lib/R$layout.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/com/jeremyfeinstein/slidingmenu/lib/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLandSingle.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLandSingle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/DetectUpdateHandler$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpMainActivity$3.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpMainActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$SearchForAPNSingle.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$SearchForAPNSingle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelpActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/models/DrugChemicalSelectResult.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/models/DrugChemicalSelectResult.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$SearchForAPNSingle.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$SearchForAPNSingle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/MainActivity.java" afterPath="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLand$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/LandTransportFragment$SearchForLand$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HtmlFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HtmlFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$id.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/SICD-release.apk" afterPath="$PROJECT_DIR$/SICD/SICD-release.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HomeFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/HomeFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/Help2Activity$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/Help2Activity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$MYViewPagerAdapter.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/TotalHelp2Activity$MYViewPagerAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/MetaUtils.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/utils/MetaUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/MainActivity.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$SearchForAPN$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/DiseaseInjuryFragment$SearchForAPN$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/SubMenuFragment$2.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/fragment/SubMenuFragment$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/webapi/APNApi.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/webapi/APNApi.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HtmlFragment$1.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/release/cn/edu/tsinghua/sicd/fragment/HtmlFragment$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpActivity$4.class" afterPath="$PROJECT_DIR$/SICD/build/intermediates/classes/debug/cn/edu/tsinghua/sicd/activity/HelpActivity$4.class" />
     </list>
     <ignored path="SICDApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -324,45 +324,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="activity_help6.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ICD/src/main/res/layout/activity_help6.xml">
-          <provider selected="true" editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_help7.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ICD/src/main/res/layout/activity_help7.xml">
-          <provider selected="true" editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_help_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ICD/src/main/res/layout/activity_help_main.xml">
-          <provider selected="true" editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="activity_help_total.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ICD/src/main/res/layout/activity_help_total.xml">
           <provider selected="true" editor-type-id="android-designer2">
@@ -389,66 +350,93 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ICD/src/main/res/layout/activity_main.xml">
-          <provider selected="true" editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content_frame.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ICD/src/main/res/layout/content_frame.xml">
-          <provider selected="true" editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="external_cause_info.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ICD/src/main/res/layout/external_cause_info.xml">
-          <provider selected="true" editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="frag_cancer_tumor.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ICD/src/main/res/layout/frag_cancer_tumor.xml">
-          <provider selected="true" editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="frag_home.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="frag_home.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ICD/src/main/res/layout/frag_home.xml">
           <provider selected="true" editor-type-id="android-designer2">
             <state />
           </provider>
           <provider editor-type-id="text-editor">
+            <state relative-caret-position="1323">
+              <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ICD/src/main/res/menu/main.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ICD/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-513">
+              <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_ahelp6.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ICD/src/main/res/layout/activity_ahelp6.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="48" column="42" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ICD/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="31" column="55" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickSearchHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ICD/src/main/java/cn/edu/tsinghua/sicd/db/QuickSearchHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CancerDatabaseHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ICD/src/main/java/cn/edu/tsinghua/sicd/db/CancerDatabaseHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UpdateFragment.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ICD/src/main/java/cn/edu/tsinghua/sicd/fragment/UpdateFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10">
+              <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -460,8 +448,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="layoutResourceFile_vertical" />
-        <option value="valueResourceFile" />
         <option value="Class" />
+        <option value="valueResourceFile" />
       </list>
     </option>
   </component>
@@ -2823,9 +2811,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/fragment/DrugChemicalFragment.java" />
-        <option value="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/fragment/ExternalCauseFragment.java" />
-        <option value="$PROJECT_DIR$/SICD/src/main/res/layout/frag_home.xml" />
         <option value="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/models/DiseaseInjuryPage.java" />
         <option value="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/db/DatabaseHelper.java" />
         <option value="$PROJECT_DIR$/SICD/src/main/java/cn/edu/tsinghua/sicd/models/CancerPage.java" />
@@ -2864,16 +2849,19 @@
         <option value="$PROJECT_DIR$/ICD/src/main/res/layout/layout_menu_SICD.xml" />
         <option value="$PROJECT_DIR$/ICD/src/main/java/cn/edu/tsinghua/sicd/fragment/LeftFragment.java" />
         <option value="$PROJECT_DIR$/ICD/src/main/res/layout/layout_menu_sicd.xml" />
-        <option value="$PROJECT_DIR$/ICD/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/ICD/src/main/java/cn/edu/tsinghua/sicd/models/QuickSearchSelectResult.java" />
         <option value="$PROJECT_DIR$/ICD/src/main/java/cn/edu/tsinghua/sicd/fragment/QuickSearchBjFragment.java" />
-        <option value="$PROJECT_DIR$/ICD/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/ICD/src/main/java/cn/edu/tsinghua/sicd/fragment/LeftFragmentICD.java" />
         <option value="$PROJECT_DIR$/ICD/src/main/java/cn/edu/tsinghua/sicd/fragment/LeftFragmentSICD.java" />
         <option value="$PROJECT_DIR$/ICD/src/main/java/cn/edu/tsinghua/sicd/fragment/QuickSearchWsbFragment.java" />
         <option value="$PROJECT_DIR$/ICD/src/main/java/cn/edu/tsinghua/sicd/webapi/APNApi.java" />
-        <option value="$PROJECT_DIR$/ICD/src/main/java/cn/edu/tsinghua/sicd/db/QuickSearchHelper.java" />
         <option value="$PROJECT_DIR$/ICD/src/main/res/layout/main_head_menu.xml" />
+        <option value="$PROJECT_DIR$/ICD/src/main/res/layout/frag_home.xml" />
+        <option value="$PROJECT_DIR$/ICD/src/main/res/values-en/strings.xml" />
+        <option value="$PROJECT_DIR$/ICD/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/ICD/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/ICD/src/main/java/cn/edu/tsinghua/sicd/db/QuickSearchHelper.java" />
+        <option value="$PROJECT_DIR$/ICD/src/main/java/cn/edu/tsinghua/sicd/fragment/UpdateFragment.java" />
       </list>
     </option>
   </component>
@@ -2915,6 +2903,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2923,12 +2912,115 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ICDApp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ICD" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ICDApp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ICD" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="menu" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ICDApp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ICD" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ICDApp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ICD" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sicd" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ICDApp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ICD" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sicd" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fragment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ICDApp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ICD" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sicd" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -3400,25 +3492,27 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1769802" sideWeight="0.43088552" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1769802" sideWeight="0.4287257" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16831683" sideWeight="0.17602591" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16831683" sideWeight="0.8239741" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25866336" sideWeight="0.49568033" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09777228" sideWeight="0.35475162" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16707921" sideWeight="0.8207343" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25866336" sideWeight="0.49568033" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30183586" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3088553" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09777228" sideWeight="0.64524835" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13985148" sideWeight="0.6587473" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13985148" sideWeight="0.6587473" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -3429,8 +3523,6 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1769802" sideWeight="0.47840172" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -3482,59 +3574,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ICD/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ICD/src/main/res/values/color.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ICD/src/main/java/cn/edu/tsinghua/sicd/activity/HelpMainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ICD/src/main/java/cn/edu/tsinghua/sicd/fragment/QuickSearchBjFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="145" column="25" selection-start-line="145" selection-start-column="25" selection-end-line="145" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ICD/src/main/java/cn/edu/tsinghua/sicd/models/QuickSearchSelectResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ICD/src/main/java/cn/edu/tsinghua/sicd/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ICD/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ICD/src/main/res/layout/frag_quick_search_wsb.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -3654,20 +3693,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ICD/src/main/java/cn/edu/tsinghua/sicd/db/CancerDatabaseHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="33" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ICD/src/main/java/cn/edu/tsinghua/sicd/db/QuickSearchHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-25">
-          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ICD/src/main/res/layout/main_head_menu.xml">
       <provider selected="true" editor-type-id="android-designer2">
         <state />
@@ -3745,6 +3770,7 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3755,6 +3781,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="436">
           <caret line="48" column="15" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3765,6 +3792,7 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3775,6 +3803,7 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3785,6 +3814,7 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3795,6 +3825,7 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3805,6 +3836,7 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3815,6 +3847,7 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3825,6 +3858,7 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3861,50 +3895,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ICD/src/main/res/layout/activity_help_total.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ICD/src/main/res/layout/activity_help_total_2.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ICD/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ICD/src/main/res/layout/content_frame.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ICD/src/main/res/layout/external_cause_info.xml">
       <provider selected="true" editor-type-id="android-designer2">
         <state />
@@ -3927,13 +3917,141 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ICD/src/main/res/layout/frag_home.xml">
+    <entry file="file://$PROJECT_DIR$/ICD/src/main/res/layout/frag_disease_injury.xml">
       <provider selected="true" editor-type-id="android-designer2">
         <state />
       </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICD/src/main/res/layout/content_frame.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICD/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICD/src/main/res/layout/activity_help_total_2.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICD/src/main/res/layout/activity_help_total.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICD/src/main/res/menu/main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICD/src/main/res/layout/frag_home.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICD/src/main/res/values-en/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICD/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-513">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICD/src/main/res/layout/activity_ahelp6.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="48" column="42" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICD/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="31" column="55" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICD/src/main/java/cn/edu/tsinghua/sicd/db/QuickSearchHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICD/src/main/java/cn/edu/tsinghua/sicd/db/CancerDatabaseHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICD/src/main/java/cn/edu/tsinghua/sicd/fragment/UpdateFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
           <folding />
         </state>
       </provider>

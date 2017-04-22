@@ -54,6 +54,7 @@ public class UpdateFragment extends Fragment {
 	SQLiteDatabase db_drug;
 	SQLiteDatabase db_icd10;
 	SQLiteDatabase db_land;
+	SQLiteDatabase db_quicksearch;
 
 	private Button btnUpdate;
 	TextView db_tip;

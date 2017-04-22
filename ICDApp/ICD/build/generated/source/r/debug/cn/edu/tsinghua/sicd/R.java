@@ -320,10 +320,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int help_page_2=0x7f0a000b;
         public static final int help_page_3=0x7f0a000c;
         public static final int home=0x7f0a000d;
-        public static final int newversion=0x7f0a000e;
-        public static final int quick_search_301=0x7f0a000f;
-        public static final int quick_search_bj=0x7f0a0010;
-        public static final int quick_search_wsb=0x7f0a0011;
+        public static final int introduction=0x7f0a000e;
+        public static final int newversion=0x7f0a000f;
+        public static final int quick_search_301=0x7f0a0010;
+        public static final int quick_search_bj=0x7f0a0011;
+        public static final int quick_search_wsb=0x7f0a0012;
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 
