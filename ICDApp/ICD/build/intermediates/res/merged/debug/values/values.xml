@@ -38,11 +38,15 @@
     <dimen name="shadow_width">15dp</dimen>
     <dimen name="slidingmenu_offset">80dp</dimen>
     <item name="selected_view" type="id"/>
+    <string name="FinishDownload">下载完成</string>
     <string name="app_name">ICD 编码系统</string>
+    <string name="begUpdate">开始下载</string>
     <string name="btn_back"><u>BACK</u></string>
     <string name="btn_start"><u>开始</u></string>
-    <string name="curversion"><u>The current version is the latest!</u></string>
+    <string name="curversion"><u>该版本为最新版本！</u></string>
+    <string name="dont_close">下载过程中请不要关闭该界面。</string>
     <string name="download">数据库更新</string>
+    <string name="errorDownload">下载失败</string>
     <string name="help1">3. Choose the ICD-10 code(s) from the selected line.</string>
     <string name="help_link"><u>如何进行ICD编码</u></string>
     <string name="help_link_tip">如何进行ICD编码</string>
@@ -54,9 +58,11 @@
     <string name="home">主页</string>
     <string name="introduction">这是一个ICD编码系统</string>
     <string name="newversion"><u>A New Version Released!</u></string>
+    <string name="onlineUpdate">在线更新</string>
     <string name="quick_search_301">快捷查询-301</string>
     <string name="quick_search_bj">快捷查询-北京</string>
     <string name="quick_search_wsb">快捷查询-卫生部</string>
+    <string name="updated">已更新</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         
     </style>

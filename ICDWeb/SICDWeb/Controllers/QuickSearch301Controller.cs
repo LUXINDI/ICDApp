@@ -15,6 +15,12 @@ namespace SICDWeb.Controllers
         // GET: /QuickSearch301/
 
         [HttpGet]
+        public Page GetPage(int PageIndex, int PageSize)
+        {
+            return DBHelper.GetDataTable("tbldiagnosis_301", "*", "", "term", PageIndex, PageSize);
+        }
+
+        [HttpGet]
         public List<QuickSearch301SelectResult> Get (String Term,int Flag)
         {
             try

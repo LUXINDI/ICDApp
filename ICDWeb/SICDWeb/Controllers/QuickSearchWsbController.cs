@@ -15,6 +15,12 @@ namespace SICDWeb.Controllers
         // GET: /QuickSearchWsb/
 
         [HttpGet]
+        public Page GetPage(int PageIndex, int PageSize)
+        {
+            return DBHelper.GetDataTable("tbldiagnosis_wsb", "*", "", "term", PageIndex, PageSize);
+        }
+
+        [HttpGet]
         public List<QuickSearchWsbSelectResult> Get(String Term, int Flag)
         {
             try

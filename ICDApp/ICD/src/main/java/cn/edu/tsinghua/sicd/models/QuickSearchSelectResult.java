@@ -9,6 +9,7 @@ public class QuickSearchSelectResult {
     public String term;
     public String icd_code;
     public String Star_code;
+    public String py;
 
 
     public String getICDcode() {
@@ -22,4 +23,5 @@ public class QuickSearchSelectResult {
     public String getKeyword() {
         return term;
     }
+    public String getPy() {return  py;}
 }

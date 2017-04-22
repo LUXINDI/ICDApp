@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" android:orientation="vertical">
+    <ImageView
+        android:layout_marginTop="10dp"
+        android:layout_width="150dp" android:src="@drawable/app_logo_who"
+        android:layout_height="150dp" android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="20dp" />
+
+    <TextView
+
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="left"
+        android:lineSpacingExtra="8dp"
+        android:text="@string/introduction"
+        android:textSize="18.0sp"
+        android:textColor="#2894FF"
+
+        />
+    <TextView
+        android:id="@+id/tv_newversion"
+
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:textColor="#FF2D2D"
+        android:text="" android:gravity="center" />
+
+    <TextView
+        android:id="@+id/btnHelp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="17dp"
+        android:textColor="#2894FF"
+
+        android:text="@string/help_link"
+        />
+
+
+    <TextView
+
+        android:layout_marginTop="15dp"
+        android:id="@+id/btnStart"
+
+        android:gravity="center"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:textColor="#FF9224"
+
+        android:text="@string/btn_start"
+        />
+
+
+    <ImageView
+        android:layout_marginTop="20dp"
+        android:layout_width="200dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_height="200dp" android:src="@drawable/qr" />
+
+</LinearLayout>
+    </ScrollView>
+</LinearLayout>

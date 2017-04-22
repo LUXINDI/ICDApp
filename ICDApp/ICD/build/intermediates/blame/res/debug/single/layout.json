@@ -20,24 +20,24 @@
         "source": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\layout\\list_item_land.xml"
     },
     {
-        "merged": "D:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_update.xml",
-        "source": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\layout\\fragment_update.xml"
-    },
-    {
         "merged": "D:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\layout\\layout_menu_icd.xml",
         "source": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\layout\\layout_menu_icd.xml"
+    },
+    {
+        "merged": "D:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_update.xml",
+        "source": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\layout\\fragment_update.xml"
     },
     {
         "merged": "D:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help2.xml",
         "source": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\layout\\activity_help2.xml"
     },
     {
-        "merged": "D:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\layout\\menu_frame_right.xml",
-        "source": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\layout\\menu_frame_right.xml"
-    },
-    {
         "merged": "D:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\layout\\content_frame.xml",
         "source": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\layout\\content_frame.xml"
+    },
+    {
+        "merged": "D:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\layout\\menu_frame_right.xml",
+        "source": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\layout\\menu_frame_right.xml"
     },
     {
         "merged": "D:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+
+
+
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent" android:orientation="vertical"
+        android:layout_height="wrap_content" android:padding="5dp">
+
+
+
+        <TextView
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textColor="@color/helptext"
+
+            android:id="@+id/helpSecond"
+            android:text="Selection of ICD-10 code from section 4：Table of Drugs and Chemicals"
+            />
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/example_8"
+            />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/example_9"
+            android:layout_marginBottom="10dp"
+            />
+
+        <TextView
+
+            android:layout_marginTop="15dp"
+            android:id="@+id/btnStart"
+
+            android:gravity="center"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="25dp"
+            android:textColor="#FF9224"
+
+            android:text="@string/btn_back"
+
+            />
+
+
+</LinearLayout>
+</ScrollView>
+</LinearLayout>

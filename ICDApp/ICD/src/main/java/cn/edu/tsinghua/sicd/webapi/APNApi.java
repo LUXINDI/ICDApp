@@ -14,6 +14,7 @@ import cn.edu.tsinghua.sicd.db.DiseaseInjuryDatabaseHelper;
 import cn.edu.tsinghua.sicd.db.DrugDatabaseHelper;
 import cn.edu.tsinghua.sicd.db.ICD10DatabaseHelper;
 import cn.edu.tsinghua.sicd.db.LandDatabaseHelper;
+import cn.edu.tsinghua.sicd.db.QuickSearchHelper;
 import cn.edu.tsinghua.sicd.models.APNSingleResult;
 import cn.edu.tsinghua.sicd.models.CancerTumorSelectResult;
 import cn.edu.tsinghua.sicd.models.DrugChemicalSelectResult;
@@ -36,6 +37,7 @@ public class APNApi {
     SQLiteDatabase db_drug;
     SQLiteDatabase db_icd10;
     SQLiteDatabase db_land;
+    SQLiteDatabase db_quicksearch;
 
     public APNApi(Context context) {
 
@@ -47,6 +49,7 @@ public class APNApi {
         db_drug = new DrugDatabaseHelper(context).getWritableDatabase();
         db_icd10 = new ICD10DatabaseHelper(context).getWritableDatabase();
         db_land = new LandDatabaseHelper(context).getWritableDatabase();
+        db_quicksearch=new QuickSearchHelper(context).getWritableDatabase();
 
     }
 
@@ -285,18 +288,18 @@ public class APNApi {
 
         List<QuickSearchSelectResult> ulist = new ArrayList<QuickSearchSelectResult>();
 
-        /*Cursor cursor = db_cancer.query("cancer", null, "keyword like ?", new String[]{getTerm(inputTerm)}, null, null, null, null);
+        Cursor cursor = db_quicksearch.query("tbldiagnosis_301", null, "term like ? or py like ?", new String[]{getTerm(inputTerm),getTerm(inputTerm)},null, null, null, null);
         if (cursor != null) {
 
 
             while (cursor.moveToNext()) {
-                CancerTumorSelectResult model = new Gson().fromJson(cursor.getString(cursor.getColumnIndex("data")), CancerTumorSelectResult.class);
+                QuickSearchSelectResult model = new Gson().fromJson(cursor.getString(cursor.getColumnIndex("data")), QuickSearchSelectResult.class);
                 if (ulist.size() > 30)
                     break;
                 ulist.add(model);
             }
             ret = new Gson().toJson(ulist);
-        }*/
+        }
 
         if (ulist == null || ulist.size() <= 0) {
 
@@ -308,14 +311,14 @@ public class APNApi {
     }
 
     public String getDiagnosis301(String inputTerm) {
-        //CancerTumorSelectResult model = null;
+        QuickSearchSelectResult model = null;
 
-        /*
-        Cursor cursor = db_cancer.query("cancer", null, "keyword = ?", new String[]{"" + inputTerm + ""}, null, null, null, null);
+
+        Cursor cursor = db_quicksearch.query("tbldiagnosis_301", null, "term = ?", new String[]{"" + inputTerm + ""}, null, null, null, null);
         while (cursor.moveToNext()) {
-            model = new Gson().fromJson(cursor.getString(cursor.getColumnIndex("data")), CancerTumorSelectResult.class);
+            model = new Gson().fromJson(cursor.getString(cursor.getColumnIndex("data")), QuickSearchSelectResult.class);
             return new Gson().toJson(model);
-        }*/
+        }
 
         return server.call("post", "QuickSearch301", new String[]{"Term"}, new String[]{inputTerm});
     }
@@ -325,18 +328,18 @@ public class APNApi {
 
         List<QuickSearchSelectResult> ulist = new ArrayList<QuickSearchSelectResult>();
 
-        /*Cursor cursor = db_cancer.query("cancer", null, "keyword like ?", new String[]{getTerm(inputTerm)}, null, null, null, null);
+        Cursor cursor = db_quicksearch.query("tbldiagnosis_bj", null, "term like ? or py like ?", new String[]{getTerm(inputTerm),getTerm(inputTerm)}, null, null, null, null);
         if (cursor != null) {
 
 
             while (cursor.moveToNext()) {
-                CancerTumorSelectResult model = new Gson().fromJson(cursor.getString(cursor.getColumnIndex("data")), CancerTumorSelectResult.class);
+                QuickSearchSelectResult model = new Gson().fromJson(cursor.getString(cursor.getColumnIndex("data")), QuickSearchSelectResult.class);
                 if (ulist.size() > 30)
                     break;
                 ulist.add(model);
             }
             ret = new Gson().toJson(ulist);
-        }*/
+        }
 
         if (ulist == null || ulist.size() <= 0) {
 
@@ -348,14 +351,14 @@ public class APNApi {
     }
 
     public String getDiagnosisBj(String inputTerm) {
-        //CancerTumorSelectResult model = null;
+        QuickSearchSelectResult model = null;
 
-        /*
-        Cursor cursor = db_cancer.query("cancer", null, "keyword = ?", new String[]{"" + inputTerm + ""}, null, null, null, null);
+
+        Cursor cursor = db_quicksearch.query("tbldiagnosis_bj", null, "term = ?", new String[]{"" + inputTerm + ""}, null, null, null, null);
         while (cursor.moveToNext()) {
-            model = new Gson().fromJson(cursor.getString(cursor.getColumnIndex("data")), CancerTumorSelectResult.class);
+            model = new Gson().fromJson(cursor.getString(cursor.getColumnIndex("data")), QuickSearchSelectResult.class);
             return new Gson().toJson(model);
-        }*/
+        }
 
         return server.call("post", "QuickSearchBj", new String[]{"Term"}, new String[]{inputTerm});
     }
@@ -365,18 +368,18 @@ public class APNApi {
 
         List<QuickSearchSelectResult> ulist = new ArrayList<QuickSearchSelectResult>();
 
-        /*Cursor cursor = db_cancer.query("cancer", null, "keyword like ?", new String[]{getTerm(inputTerm)}, null, null, null, null);
+        Cursor cursor = db_quicksearch.query("tbldiagnosis_wsb", null, "term like ? or py like ?", new String[]{getTerm(inputTerm),getTerm(inputTerm)}, null, null, null, null);
         if (cursor != null) {
 
 
             while (cursor.moveToNext()) {
-                CancerTumorSelectResult model = new Gson().fromJson(cursor.getString(cursor.getColumnIndex("data")), CancerTumorSelectResult.class);
+                QuickSearchSelectResult model = new Gson().fromJson(cursor.getString(cursor.getColumnIndex("data")), QuickSearchSelectResult.class);
                 if (ulist.size() > 30)
                     break;
                 ulist.add(model);
             }
             ret = new Gson().toJson(ulist);
-        }*/
+        }
 
         if (ulist == null || ulist.size() <= 0) {
 
@@ -388,14 +391,14 @@ public class APNApi {
     }
 
     public String getDiagnosisWsb(String inputTerm) {
-        //CancerTumorSelectResult model = null;
+        QuickSearchSelectResult model = null;
 
-        /*
-        Cursor cursor = db_cancer.query("cancer", null, "keyword = ?", new String[]{"" + inputTerm + ""}, null, null, null, null);
+
+        Cursor cursor = db_quicksearch.query("tbldiagnosis_wsb", null, "term = ?", new String[]{"" + inputTerm + ""}, null, null, null, null);
         while (cursor.moveToNext()) {
-            model = new Gson().fromJson(cursor.getString(cursor.getColumnIndex("data")), CancerTumorSelectResult.class);
+            model = new Gson().fromJson(cursor.getString(cursor.getColumnIndex("data")), QuickSearchSelectResult.class);
             return new Gson().toJson(model);
-        }*/
+        }
 
         return server.call("post", "QuickSearchWsb", new String[]{"Term"}, new String[]{inputTerm});
     }

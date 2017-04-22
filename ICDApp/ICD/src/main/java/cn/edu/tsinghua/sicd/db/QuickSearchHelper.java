@@ -20,11 +20,30 @@ public class QuickSearchHelper extends SQLiteOpenHelper {
 
     @Override
     public void onCreate(SQLiteDatabase db) {
-        String sql = "create table tbldiagnosis_301(term varchar(100) not null, [Primary] varchar(255)," +
-                "icd_code(255),"+
-                "Star_code(255),"+
+        String sql1 = "create table tbldiagnosis_301(term varchar(100) not null," +
+                "icd_code varchar(255),"+
+                "Star_code varchar(255),"+
+                "py varchar(255),"+
+                "data text"+
                 " );";
-        db.execSQL(sql);
+        db.execSQL(sql1);
+
+        String sql2 = "create table tbldiagnosis_bj(term varchar(100) not null," +
+                "icd_code varchar(255),"+
+                "Star_code varchar(255),"+
+                "py varchar(255),"+
+                "data text"+
+                " );";
+        db.execSQL(sql2);
+
+        String sql3 = "create table tbldiagnosis_wsb(term varchar(100) not null," +
+                "icd_code varchar(255),"+
+                "Star_code varchar(255),"+
+                "py varchar(255),"+
+                "data text"+
+                " );";
+        db.execSQL(sql3);
+
     }
 
     @Override

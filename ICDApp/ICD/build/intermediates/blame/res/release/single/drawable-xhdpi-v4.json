@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\bg1.jpg",
+        "source": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\drawable-xhdpi\\bg1.jpg"
+    },
+    {
+        "merged": "D:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\bg.jpg",
+        "source": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\drawable-xhdpi\\bg.jpg"
+    },
+    {
+        "merged": "D:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\transport_desc.jpg",
+        "source": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\drawable-xhdpi\\transport_desc.jpg"
+    },
+    {
+        "merged": "D:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\un_logo.jpg",
+        "source": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\drawable-xhdpi\\un_logo.jpg"
+    },
+    {
+        "merged": "D:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\tsinghua_logo.jpg",
+        "source": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\drawable-xhdpi\\tsinghua_logo.jpg"
+    }
+]

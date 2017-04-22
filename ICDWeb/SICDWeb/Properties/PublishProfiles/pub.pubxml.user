@@ -8,7 +8,7 @@
     <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
     <LastUsedPlatform>Any CPU</LastUsedPlatform>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>G:\sicd\icd_export0419</_PublishTargetUrl>
+    <_PublishTargetUrl>D:\sicd\icd_export</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/Microsoft.Web.Infrastructure.dll">
@@ -18,10 +18,10 @@
       <publishTime>03/09/2016 19:20:38</publishTime>
     </File>
     <File Include="bin/SICDDAL.dll">
-      <publishTime>04/19/2017 17:02:14</publishTime>
+      <publishTime>04/22/2017 15:02:10</publishTime>
     </File>
     <File Include="bin/SICDWeb.dll">
-      <publishTime>04/19/2017 22:20:42</publishTime>
+      <publishTime>04/22/2017 15:02:10</publishTime>
     </File>
     <File Include="bin/System.Net.Http.dll">
       <publishTime>03/09/2016 19:20:40</publishTime>
@@ -147,7 +147,7 @@
       <publishTime>03/09/2016 19:20:38</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>04/19/2017 22:20:43</publishTime>
+      <publishTime>04/22/2017 15:02:11</publishTime>
     </File>
   </ItemGroup>
 </Project>

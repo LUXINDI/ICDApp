@@ -13,10 +13,10 @@
 <Button android:layout_gravity="center" android:layout_marginTop="100dp"
     android:id="@+id/btnUpdate"
     android:layout_width="200dp"
-    android:layout_height="50dp" android:text="Begin to Update" />
+    android:layout_height="50dp" android:text="@string/begUpdate" />
     <TextView
         android:layout_marginTop="10dp"
         android:gravity="center" android:id="@+id/tv_progress"
-        android:layout_width="match_parent" android:textSize="17dp" android:text="Please DO NOT close this window when updating!"
+        android:layout_width="match_parent" android:textSize="17dp" android:text="@string/dont_close"
         android:layout_height="wrap_content" />
 </LinearLayout>

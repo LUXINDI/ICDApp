@@ -306,25 +306,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int main=0x7f0b0000;
     }
     public static final class string {
-        public static final int app_name=0x7f0a0000;
-        public static final int btn_back=0x7f0a0001;
-        public static final int btn_start=0x7f0a0002;
-        public static final int curversion=0x7f0a0003;
-        public static final int download=0x7f0a0004;
-        public static final int help1=0x7f0a0005;
-        public static final int help_link=0x7f0a0006;
-        public static final int help_link_tip=0x7f0a0007;
-        public static final int help_main_1=0x7f0a0008;
-        public static final int help_main_2=0x7f0a0009;
-        public static final int help_page_1=0x7f0a000a;
-        public static final int help_page_2=0x7f0a000b;
-        public static final int help_page_3=0x7f0a000c;
-        public static final int home=0x7f0a000d;
-        public static final int introduction=0x7f0a000e;
-        public static final int newversion=0x7f0a000f;
-        public static final int quick_search_301=0x7f0a0010;
-        public static final int quick_search_bj=0x7f0a0011;
-        public static final int quick_search_wsb=0x7f0a0012;
+        public static final int FinishDownload=0x7f0a0000;
+        public static final int app_name=0x7f0a0001;
+        public static final int begUpdate=0x7f0a0002;
+        public static final int btn_back=0x7f0a0003;
+        public static final int btn_start=0x7f0a0004;
+        public static final int curversion=0x7f0a0005;
+        public static final int dont_close=0x7f0a0006;
+        public static final int download=0x7f0a0007;
+        public static final int errorDownload=0x7f0a0008;
+        public static final int help1=0x7f0a0009;
+        public static final int help_link=0x7f0a000a;
+        public static final int help_link_tip=0x7f0a000b;
+        public static final int help_main_1=0x7f0a000c;
+        public static final int help_main_2=0x7f0a000d;
+        public static final int help_page_1=0x7f0a000e;
+        public static final int help_page_2=0x7f0a000f;
+        public static final int help_page_3=0x7f0a0010;
+        public static final int home=0x7f0a0011;
+        public static final int introduction=0x7f0a0012;
+        public static final int newversion=0x7f0a0013;
+        public static final int onlineUpdate=0x7f0a0014;
+        public static final int quick_search_301=0x7f0a0015;
+        public static final int quick_search_bj=0x7f0a0016;
+        public static final int quick_search_wsb=0x7f0a0017;
+        public static final int updated=0x7f0a0018;
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 

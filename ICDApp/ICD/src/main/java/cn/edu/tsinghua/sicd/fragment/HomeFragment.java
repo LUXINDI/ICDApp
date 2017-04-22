@@ -116,11 +116,11 @@ public class HomeFragment extends Fragment {
 
 			MainActivity.isFirstStart=false;
 
-			new AlertDialog.Builder(getActivity()).setTitle("Download Data")//设置对话框标题
+			new AlertDialog.Builder(getActivity()).setTitle("数据库下载/更新")//设置对话框标题
 
-					.setMessage("Downloading the database allows you use this SICD offline. Want to download?")//设置显示的内容
+					.setMessage("数据库下载后能够离线使用。您想要下载数据库吗?")//设置显示的内容
 
-					.setPositiveButton("Yes", new DialogInterface.OnClickListener() {//添加确定按钮
+					.setPositiveButton("是", new DialogInterface.OnClickListener() {//添加确定按钮
 
 						@Override
 
@@ -131,7 +131,7 @@ public class HomeFragment extends Fragment {
 
 						}
 
-					}).setNegativeButton("No",new DialogInterface.OnClickListener() {//添加返回按钮
+					}).setNegativeButton("否",new DialogInterface.OnClickListener() {//添加返回按钮
 
 				@Override
 

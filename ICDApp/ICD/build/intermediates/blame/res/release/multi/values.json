@@ -1,0 +1,779 @@
+[
+    {
+        "outputFile": "D:\\sicd\\ICDApp\\ICD\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 8,
+                        "endColumn": 19,
+                        "endOffset": 175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endLine": 13,
+                    "endColumn": 19,
+                    "endOffset": 278
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 181,
+                        "endLine": 14,
+                        "endColumn": 19,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 283,
+                    "endLine": 19,
+                    "endColumn": 19,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endLine": 21,
+                        "endColumn": 19,
+                        "endOffset": 415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 397,
+                    "endColumn": 43,
+                    "endOffset": 436
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 43,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 441,
+                    "endColumn": 42,
+                    "endOffset": 479
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endColumn": 42,
+                        "endOffset": 230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 484,
+                    "endColumn": 43,
+                    "endOffset": 523
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 43,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 528,
+                    "endColumn": 41,
+                    "endOffset": 565
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 41,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1678,
+                    "endColumn": 57,
+                    "endOffset": 1731
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1736,
+                    "endColumn": 55,
+                    "endOffset": 1787
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1792,
+                    "endColumn": 43,
+                    "endOffset": 1831
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 43,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1836,
+                    "endColumn": 49,
+                    "endOffset": 1881
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 49,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1886,
+                    "endColumn": 42,
+                    "endOffset": 1924
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\slidingmenu_library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1008,
+                        "endColumn": 42,
+                        "endOffset": 1046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1929,
+                    "endColumn": 47,
+                    "endOffset": 1972
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 1,
+                        "startOffset": 1327,
+                        "endColumn": 44,
+                        "endOffset": 1370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1977,
+                    "endColumn": 45,
+                    "endOffset": 2018
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endColumn": 42,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2023,
+                    "endColumn": 42,
+                    "endOffset": 2061
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 1,
+                        "startOffset": 1242,
+                        "endColumn": 39,
+                        "endOffset": 1280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2066,
+                    "endColumn": 48,
+                    "endOffset": 2110
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 1,
+                        "startOffset": 1504,
+                        "endColumn": 45,
+                        "endOffset": 1548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2115,
+                    "endColumn": 47,
+                    "endOffset": 2158
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 1,
+                        "startOffset": 1458,
+                        "endColumn": 44,
+                        "endOffset": 1501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2163,
+                    "endColumn": 55,
+                    "endOffset": 2214
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 1,
+                        "startOffset": 1136,
+                        "endColumn": 52,
+                        "endOffset": 1187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2219,
+                    "endColumn": 53,
+                    "endOffset": 2268
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 1,
+                        "startOffset": 1190,
+                        "endColumn": 50,
+                        "endOffset": 1239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2273,
+                    "endColumn": 42,
+                    "endOffset": 2311
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 294,
+                        "endColumn": 39,
+                        "endOffset": 332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2316,
+                    "endColumn": 46,
+                    "endOffset": 2358
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 1,
+                        "startOffset": 1411,
+                        "endColumn": 43,
+                        "endOffset": 1453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2363,
+                    "endColumn": 86,
+                    "endOffset": 2445
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 824,
+                        "endColumn": 83,
+                        "endOffset": 906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2450,
+                    "endColumn": 54,
+                    "endOffset": 2500
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 394,
+                        "endColumn": 51,
+                        "endOffset": 444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2505,
+                    "endColumn": 51,
+                    "endOffset": 2552
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 449,
+                        "endColumn": 48,
+                        "endOffset": 496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2557,
+                    "endColumn": 91,
+                    "endOffset": 2644
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 911,
+                        "endColumn": 88,
+                        "endOffset": 998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2649,
+                    "endColumn": 66,
+                    "endOffset": 2711
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1001,
+                        "endColumn": 63,
+                        "endOffset": 1063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2716,
+                    "endColumn": 103,
+                    "endOffset": 2815
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 503,
+                        "endColumn": 100,
+                        "endOffset": 602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2820,
+                    "endColumn": 123,
+                    "endOffset": 2939
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 1,
+                        "startOffset": 607,
+                        "endColumn": 120,
+                        "endOffset": 726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2944,
+                    "endColumn": 92,
+                    "endOffset": 3032
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 731,
+                        "endColumn": 89,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3037,
+                    "endColumn": 35,
+                    "endOffset": 3068
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 100,
+                        "endColumn": 32,
+                        "endOffset": 131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3073,
+                    "endColumn": 52,
+                    "endOffset": 3121
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 337,
+                        "endColumn": 49,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3126,
+                    "endColumn": 69,
+                    "endOffset": 3191
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 1068,
+                        "endColumn": 66,
+                        "endOffset": 1133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3196,
+                    "endColumn": 45,
+                    "endOffset": 3237
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 1,
+                        "startOffset": 1283,
+                        "endColumn": 42,
+                        "endOffset": 1324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3242,
+                    "endColumn": 53,
+                    "endOffset": 3291
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 134,
+                        "endColumn": 50,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3296,
+                    "endColumn": 51,
+                    "endOffset": 3343
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 51,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3348,
+                    "endColumn": 53,
+                    "endOffset": 3397
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 53,
+                        "endOffset": 291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 3402,
+                    "endColumn": 39,
+                    "endOffset": 3437
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 1,
+                        "startOffset": 1373,
+                        "endColumn": 36,
+                        "endOffset": 1408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3442,
+                    "endLine": 71,
+                    "endColumn": 12,
+                    "endOffset": 3728
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 3733,
+                    "endLine": 74,
+                    "endColumn": 12,
+                    "endOffset": 3888
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3893,
+                    "endLine": 83,
+                    "endColumn": 12,
+                    "endOffset": 4345
+                },
+                "from": {
+                    "file": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1150
+                    }
+                }
+            }
+        ]
+    }
+]

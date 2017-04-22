@@ -15,3 +15,9 @@ D:\SICDWeb\SICDDAL\bin\Release\SICDDAL.pdb
 D:\SICDWeb\SICDDAL\obj\Release\SICDDAL.csprojResolveAssemblyReference.cache
 D:\SICDWeb\SICDDAL\obj\Release\SICDDAL.dll
 D:\SICDWeb\SICDDAL\obj\Release\SICDDAL.pdb
+D:\sicd\ICDWeb\SICDDAL\bin\Release\SICDDAL.dll.config
+D:\sicd\ICDWeb\SICDDAL\bin\Release\SICDDAL.dll
+D:\sicd\ICDWeb\SICDDAL\bin\Release\SICDDAL.pdb
+D:\sicd\ICDWeb\SICDDAL\obj\Release\SICDDAL.csprojResolveAssemblyReference.cache
+D:\sicd\ICDWeb\SICDDAL\obj\Release\SICDDAL.dll
+D:\sicd\ICDWeb\SICDDAL\obj\Release\SICDDAL.pdb
