@@ -2,5 +2,9 @@
     {
         "merged": "D:\\sicd\\ICDApp\\slidingmenu_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\slidingmenumain.xml",
         "source": "D:\\sicd\\ICDApp\\slidingmenu_library\\build\\intermediates\\bundles\\debug\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "E:\\sicd\\ICDApp\\slidingmenu_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\slidingmenumain.xml",
+        "source": "E:\\sicd\\ICDApp\\slidingmenu_library\\build\\intermediates\\bundles\\debug\\res\\layout\\slidingmenumain.xml"
     }
 ]

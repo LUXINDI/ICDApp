@@ -27,6 +27,8 @@ public class LeftFragmentICD extends Fragment implements OnClickListener{
 	private View quickSearchBjListView;
 	private View quickSearchWsbListView;
 
+	private View checkPage;
+
 	private ImageView profileView;
 
 	private View rootView;
@@ -63,12 +65,14 @@ public class LeftFragmentICD extends Fragment implements OnClickListener{
 		quickSearchWsbListView =view.findViewById(R.id.tvQuickSearchWsb);
 
 		updateView=view.findViewById(R.id.tvMyUpdate);
+		checkPage=view.findViewById(R.id.tvCheck);
 
 		homeListViewList.setOnClickListener(this);
 
 		quickSearch301ListView.setOnClickListener(this);
 		quickSearchBjListView.setOnClickListener(this);
 		quickSearchWsbListView.setOnClickListener(this);
+		checkPage.setOnClickListener(this);
 
 		updateView.setOnClickListener(this);
 
@@ -107,6 +111,10 @@ public class LeftFragmentICD extends Fragment implements OnClickListener{
 				newContent=new QuickSearchWsbFragment();
 				title="快捷查询-卫生部";
 				break;
+            case R.id.tvCheck:
+                newContent=new ICDCheckFragment();
+				title="核对";
+				break;
 			case R.id.tvMyUpdate:
 				newContent=new UpdateFragment();
 				title="数据库下载/更新";
@@ -126,7 +134,7 @@ public class LeftFragmentICD extends Fragment implements OnClickListener{
 	}
 
 	public void hightlight(int res){
-		int[] st=new int[]{R.id.tvHome,R.id.tvQuickSearch301,R.id.tvQuickSearchBj,R.id.tvQuickSearchWsb};
+		int[] st=new int[]{R.id.tvHome,R.id.tvQuickSearch301,R.id.tvQuickSearchBj,R.id.tvQuickSearchWsb,R.id.tvCheck};
 		for(int i=0;i<st.length;i++){
 			if(res==st[i]){
 

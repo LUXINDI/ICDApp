@@ -19,6 +19,7 @@ import cn.edu.tsinghua.sicd.models.APNSingleResult;
 import cn.edu.tsinghua.sicd.models.CancerTumorSelectResult;
 import cn.edu.tsinghua.sicd.models.DrugChemicalSelectResult;
 import cn.edu.tsinghua.sicd.models.ExternalCauseSelectResult;
+import cn.edu.tsinghua.sicd.models.ICDCheck_CodenameResult;
 import cn.edu.tsinghua.sicd.models.LandTransportSelectResult;
 import cn.edu.tsinghua.sicd.models.QuickSearchSelectResult;
 import cn.edu.tsinghua.sicd.utils.PreferenceUtils;
@@ -401,6 +402,12 @@ public class APNApi {
         }
 
         return server.call("post", "QuickSearchWsb", new String[]{"Term"}, new String[]{inputTerm});
+    }
+
+    //核对
+    public String getCodeInfo(String inputTerm){
+        ICDCheck_CodenameResult model=null;
+        return server.call("get","ICDCheck",new String[]{"icd_code"},new String[]{inputTerm});
     }
 
 

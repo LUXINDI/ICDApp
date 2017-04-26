@@ -1,5 +1,6 @@
 package cn.edu.tsinghua.sicd;
 
+import android.content.res.Resources;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.View;
@@ -70,7 +71,7 @@ public class MainActivity extends SlidingFragmentActivity implements
 
 		Instance =this;
 
-		switchConent(new HomeFragment(), "Home");
+		switchConent(new HomeFragment(), String.format(getResources().getString(R.string.home)));
 
 
 		//detect update info
@@ -157,5 +158,6 @@ new AppUpdateHandler(this).doInBackground();
 			break;
 		}
 	}
+	
 
 }

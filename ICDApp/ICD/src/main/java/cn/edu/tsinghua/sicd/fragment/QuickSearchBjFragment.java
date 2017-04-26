@@ -139,10 +139,10 @@ public class QuickSearchBjFragment extends Fragment {
 
 
         keyView.setText(key);
-        keyView.setTextSize(20);
+        keyView.setTextSize(15);
         keyView.setTextColor(Color.rgb(30,144,255));
         valueView.setText(value);
-        valueView.setTextSize(20);
+        valueView.setTextSize(15);
         valueView.setPadding(0,0,5,0);
 
         tableRow.addView(keyView);

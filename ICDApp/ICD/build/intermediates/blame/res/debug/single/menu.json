@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\sicd\\ICDApp\\ICD\\src\\main\\res\\menu\\main.xml"
+    },
+    {
         "merged": "D:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\menu\\main.xml"
     }

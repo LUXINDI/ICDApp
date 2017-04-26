@@ -4,6 +4,10 @@
         "source": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\drawable-xhdpi\\help2_matching_mode_2.png"
     },
     {
+        "merged": "E:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help2_unfold_menu.png",
+        "source": "E:\\sicd\\ICDApp\\ICD\\src\\main\\res\\drawable-xhdpi\\help2_unfold_menu.png"
+    },
+    {
         "merged": "D:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help2_choose_code.png",
         "source": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\drawable-xhdpi\\help2_choose_code.png"
     },
@@ -28,8 +32,28 @@
         "source": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\drawable-xhdpi\\help2_unfold_menu.png"
     },
     {
+        "merged": "E:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help2_matching_mode.png",
+        "source": "E:\\sicd\\ICDApp\\ICD\\src\\main\\res\\drawable-xhdpi\\help2_matching_mode.png"
+    },
+    {
+        "merged": "E:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help2_unfold_menu_2.png",
+        "source": "E:\\sicd\\ICDApp\\ICD\\src\\main\\res\\drawable-xhdpi\\help2_unfold_menu_2.png"
+    },
+    {
+        "merged": "E:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help2_choose_code.png",
+        "source": "E:\\sicd\\ICDApp\\ICD\\src\\main\\res\\drawable-xhdpi\\help2_choose_code.png"
+    },
+    {
+        "merged": "E:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help2_input_diagnosis.png",
+        "source": "E:\\sicd\\ICDApp\\ICD\\src\\main\\res\\drawable-xhdpi\\help2_input_diagnosis.png"
+    },
+    {
         "merged": "D:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help2_matching_mode.png",
         "source": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\drawable-xhdpi\\help2_matching_mode.png"
+    },
+    {
+        "merged": "E:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help2_choose_diagnosis.png",
+        "source": "E:\\sicd\\ICDApp\\ICD\\src\\main\\res\\drawable-xhdpi\\help2_choose_diagnosis.png"
     },
     {
         "merged": "D:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help2_input_diagnosis.png",
@@ -38,5 +62,21 @@
     {
         "merged": "D:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qr.png",
         "source": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\drawable-xhdpi\\qr.png"
+    },
+    {
+        "merged": "E:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help2_matching_mode_2.png",
+        "source": "E:\\sicd\\ICDApp\\ICD\\src\\main\\res\\drawable-xhdpi\\help2_matching_mode_2.png"
+    },
+    {
+        "merged": "E:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qr.png",
+        "source": "E:\\sicd\\ICDApp\\ICD\\src\\main\\res\\drawable-xhdpi\\qr.png"
+    },
+    {
+        "merged": "E:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help2_select_appropriate_sections.png",
+        "source": "E:\\sicd\\ICDApp\\ICD\\src\\main\\res\\drawable-xhdpi\\help2_select_appropriate_sections.png"
+    },
+    {
+        "merged": "E:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\app_logo_who.png",
+        "source": "E:\\sicd\\ICDApp\\ICD\\src\\main\\res\\drawable-xhdpi\\app_logo_who.png"
     }
 ]

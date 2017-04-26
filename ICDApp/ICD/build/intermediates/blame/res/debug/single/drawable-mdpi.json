@@ -2,5 +2,9 @@
     {
         "merged": "D:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\app_logo_desktop_icd.png",
         "source": "D:\\sicd\\ICDApp\\ICD\\src\\main\\res\\drawable-mdpi\\app_logo_desktop_icd.png"
+    },
+    {
+        "merged": "E:\\sicd\\ICDApp\\ICD\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\app_logo_desktop_icd.png",
+        "source": "E:\\sicd\\ICDApp\\ICD\\src\\main\\res\\drawable-mdpi\\app_logo_desktop_icd.png"
     }
 ]

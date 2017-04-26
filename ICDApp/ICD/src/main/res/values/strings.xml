@@ -8,7 +8,7 @@
     <string name="quick_search_wsb">快捷查询-卫生部</string>
 	<string name="download">数据库更新</string>
 
-	<string name="introduction">这是一个ICD编码系统</string>
+	<string name="introduction">Internatioal Classification of Diseases</string>
 
 
 
@@ -36,6 +36,7 @@
 	<string name="FinishDownload">下载完成</string>
 	<string name="updated">已更新</string>
 	<string name="errorDownload">下载失败</string>
+	<string name="check">核对</string>
 
 	<string name="btn_start"><u>开始</u></string>
 	<string name="btn_back"><u>BACK</u></string>

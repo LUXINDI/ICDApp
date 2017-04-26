@@ -201,57 +201,60 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int wwj_748=0x7f020028;
     }
     public static final class id {
-        public static final int action_settings=0x7f090033;
-        public static final int backButton=0x7f09002f;
-        public static final int btnBack=0x7f09002e;
-        public static final int btnCancel=0x7f090014;
+        public static final int action_settings=0x7f090036;
+        public static final int backButton=0x7f090032;
+        public static final int btnBack=0x7f090031;
+        public static final int btnCancel=0x7f090016;
         public static final int btnHelp=0x7f090007;
-        public static final int btnLand=0x7f090015;
+        public static final int btnLand=0x7f090017;
         public static final int btnStart=0x7f090006;
-        public static final int btnTest=0x7f090028;
-        public static final int btnUpdate=0x7f090018;
+        public static final int btnTest=0x7f09002b;
+        public static final int btnUpdate=0x7f09001a;
+        public static final int btn_check=0x7f090013;
         public static final int content_frame=0x7f09000b;
-        public static final int db_tip=0x7f090017;
+        public static final int db_tip=0x7f090019;
         public static final int ec_desc=0x7f09000d;
         public static final int ec_icd=0x7f09000e;
         public static final int fullscreen=0x7f090003;
         public static final int helpFirst=0x7f090005;
         public static final int helpSecond=0x7f090008;
         public static final int helpThird=0x7f090009;
-        public static final int image1=0x7f090029;
+        public static final int image1=0x7f09002c;
         public static final int info_external_cause=0x7f09000c;
-        public static final int land_list=0x7f090013;
+        public static final int land_list=0x7f090015;
         public static final int left=0x7f090001;
         public static final int lv_apn=0x7f090010;
         public static final int margin=0x7f090004;
-        public static final int menu_frame=0x7f090030;
-        public static final int menu_frame_two=0x7f090031;
-        public static final int myEditText=0x7f090027;
-        public static final int myWebView=0x7f090016;
-        public static final int profile_image=0x7f09001a;
+        public static final int menu_frame=0x7f090033;
+        public static final int menu_frame_two=0x7f090034;
+        public static final int myEditText=0x7f09002a;
+        public static final int myWebView=0x7f090018;
+        public static final int profile_image=0x7f09001c;
         public static final int right=0x7f090002;
         public static final int selected_view=0x7f090000;
-        public static final int slidingmenumain=0x7f090032;
+        public static final int slidingmenumain=0x7f090035;
         public static final int sv_apn=0x7f09000f;
+        public static final int sv_check=0x7f090012;
         public static final int tableLayout=0x7f090011;
-        public static final int text1=0x7f09002a;
-        public static final int text2=0x7f09002b;
-        public static final int textView=0x7f090026;
-        public static final int topButton=0x7f09002c;
-        public static final int topTv=0x7f09002d;
-        public static final int tvAPN=0x7f090021;
-        public static final int tvCancerTumor=0x7f090022;
-        public static final int tvDrugChemical=0x7f090025;
-        public static final int tvExternalCause=0x7f090024;
-        public static final int tvHome=0x7f09001b;
-        public static final int tvLandTransport=0x7f090023;
-        public static final int tvMySettings=0x7f09001f;
-        public static final int tvMyUpdate=0x7f090020;
-        public static final int tvQuickSearch301=0x7f09001c;
-        public static final int tvQuickSearchBj=0x7f09001d;
-        public static final int tvQuickSearchWsb=0x7f09001e;
-        public static final int tv_newversion=0x7f090012;
-        public static final int tv_progress=0x7f090019;
+        public static final int text1=0x7f09002d;
+        public static final int text2=0x7f09002e;
+        public static final int textView=0x7f090029;
+        public static final int topButton=0x7f09002f;
+        public static final int topTv=0x7f090030;
+        public static final int tvAPN=0x7f090024;
+        public static final int tvCancerTumor=0x7f090025;
+        public static final int tvCheck=0x7f090021;
+        public static final int tvDrugChemical=0x7f090028;
+        public static final int tvExternalCause=0x7f090027;
+        public static final int tvHome=0x7f09001d;
+        public static final int tvLandTransport=0x7f090026;
+        public static final int tvMySettings=0x7f090022;
+        public static final int tvMyUpdate=0x7f090023;
+        public static final int tvQuickSearch301=0x7f09001e;
+        public static final int tvQuickSearchBj=0x7f09001f;
+        public static final int tvQuickSearchWsb=0x7f090020;
+        public static final int tv_newversion=0x7f090014;
+        public static final int tv_progress=0x7f09001b;
         public static final int viewPager=0x7f09000a;
     }
     public static final class layout {
@@ -276,31 +279,32 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int content_frame=0x7f030012;
         public static final int external_cause_info=0x7f030013;
         public static final int frag_cancer_tumor=0x7f030014;
-        public static final int frag_disease_injury=0x7f030015;
-        public static final int frag_drug_chemical=0x7f030016;
-        public static final int frag_externalcauses=0x7f030017;
-        public static final int frag_home=0x7f030018;
-        public static final int frag_land_transport=0x7f030019;
-        public static final int frag_land_transport_simple=0x7f03001a;
-        public static final int frag_quick_search_301=0x7f03001b;
-        public static final int frag_quick_search_bj=0x7f03001c;
-        public static final int frag_quick_search_wsb=0x7f03001d;
-        public static final int frag_settings=0x7f03001e;
-        public static final int frag_submenu=0x7f03001f;
-        public static final int fragment_html=0x7f030020;
-        public static final int fragment_update=0x7f030021;
-        public static final int layout_menu_icd=0x7f030022;
-        public static final int layout_menu_sicd=0x7f030023;
-        public static final int layout_test=0x7f030024;
-        public static final int list_item_land=0x7f030025;
-        public static final int list_item_search=0x7f030026;
-        public static final int main_head=0x7f030027;
-        public static final int main_head_back=0x7f030028;
-        public static final int main_head_help=0x7f030029;
-        public static final int main_head_menu=0x7f03002a;
-        public static final int menu_frame_left=0x7f03002b;
-        public static final int menu_frame_right=0x7f03002c;
-        public static final int slidingmenumain=0x7f03002d;
+        public static final int frag_check=0x7f030015;
+        public static final int frag_disease_injury=0x7f030016;
+        public static final int frag_drug_chemical=0x7f030017;
+        public static final int frag_externalcauses=0x7f030018;
+        public static final int frag_home=0x7f030019;
+        public static final int frag_land_transport=0x7f03001a;
+        public static final int frag_land_transport_simple=0x7f03001b;
+        public static final int frag_quick_search_301=0x7f03001c;
+        public static final int frag_quick_search_bj=0x7f03001d;
+        public static final int frag_quick_search_wsb=0x7f03001e;
+        public static final int frag_settings=0x7f03001f;
+        public static final int frag_submenu=0x7f030020;
+        public static final int fragment_html=0x7f030021;
+        public static final int fragment_update=0x7f030022;
+        public static final int layout_menu_icd=0x7f030023;
+        public static final int layout_menu_sicd=0x7f030024;
+        public static final int layout_test=0x7f030025;
+        public static final int list_item_land=0x7f030026;
+        public static final int list_item_search=0x7f030027;
+        public static final int main_head=0x7f030028;
+        public static final int main_head_back=0x7f030029;
+        public static final int main_head_help=0x7f03002a;
+        public static final int main_head_menu=0x7f03002b;
+        public static final int menu_frame_left=0x7f03002c;
+        public static final int menu_frame_right=0x7f03002d;
+        public static final int slidingmenumain=0x7f03002e;
     }
     public static final class menu {
         public static final int main=0x7f0b0000;
@@ -311,33 +315,43 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int begUpdate=0x7f0a0002;
         public static final int btn_back=0x7f0a0003;
         public static final int btn_start=0x7f0a0004;
-        public static final int curversion=0x7f0a0005;
-        public static final int dont_close=0x7f0a0006;
-        public static final int download=0x7f0a0007;
-        public static final int errorDownload=0x7f0a0008;
-        public static final int help1=0x7f0a0009;
-        public static final int help_link=0x7f0a000a;
-        public static final int help_link_tip=0x7f0a000b;
-        public static final int help_main_1=0x7f0a000c;
-        public static final int help_main_2=0x7f0a000d;
-        public static final int help_page_1=0x7f0a000e;
-        public static final int help_page_2=0x7f0a000f;
-        public static final int help_page_3=0x7f0a0010;
-        public static final int home=0x7f0a0011;
-        public static final int introduction=0x7f0a0012;
-        public static final int newversion=0x7f0a0013;
-        public static final int onlineUpdate=0x7f0a0014;
-        public static final int quick_search_301=0x7f0a0015;
-        public static final int quick_search_bj=0x7f0a0016;
-        public static final int quick_search_wsb=0x7f0a0017;
-        public static final int updated=0x7f0a0018;
+        public static final int check=0x7f0a0005;
+        public static final int curversion=0x7f0a0006;
+        public static final int dont_close=0x7f0a0007;
+        public static final int download=0x7f0a0008;
+        public static final int errorDownload=0x7f0a0009;
+        public static final int help1=0x7f0a000a;
+        public static final int help_link=0x7f0a000b;
+        public static final int help_link_tip=0x7f0a000c;
+        public static final int help_main_1=0x7f0a000d;
+        public static final int help_main_2=0x7f0a000e;
+        public static final int help_page_1=0x7f0a000f;
+        public static final int help_page_2=0x7f0a0010;
+        public static final int help_page_3=0x7f0a0011;
+        public static final int home=0x7f0a0012;
+        public static final int introduction=0x7f0a0013;
+        public static final int newversion=0x7f0a0014;
+        public static final int onlineUpdate=0x7f0a0015;
+        public static final int quick_search_301=0x7f0a0016;
+        public static final int quick_search_bj=0x7f0a0017;
+        public static final int quick_search_wsb=0x7f0a0018;
+        public static final int updated=0x7f0a0019;
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 
  API 14 theme customizations can go here. 
+
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        
          */
         public static final int AppBaseTheme=0x7f050000;
+        /**  All customizations that are NOT specific to a particular API-level can go here. 
+         */
         public static final int AppTheme=0x7f050001;
+        /**  <item name="android:windowTitleBackgroundStyle">@style/CustomWindowTitleBackground</item> 
+         */
         public static final int PreferenceTheme=0x7f050002;
     }
     public static final class xml {

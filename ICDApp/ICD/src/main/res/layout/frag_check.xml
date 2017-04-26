@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+
+    <SearchView
+        android:id="@+id/sv_check"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:iconifiedByDefault="false"
+        android:inputType="textFilter"
+        android:queryHint="Enter ICD..."
+        />
+
+    <Button
+        android:id="@+id/btn_check"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/sv_check"
+        android:layout_marginLeft="10dp"
+        android:text="@string/check"/>
+
+    <TableLayout
+        android:id="@+id/tableLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/sv_check"
+        android:layout_marginBottom="22dip"
+        android:layout_marginRight="22dip"
+        android:layout_marginLeft="22dip"
+        android:layout_marginTop="22dip"
+        android:layout_weight="1"
+        android:gravity="left"
+        android:stretchColumns="0"
+        android:visibility="visible">
+
+    </TableLayout>
+
+
+</RelativeLayout>
