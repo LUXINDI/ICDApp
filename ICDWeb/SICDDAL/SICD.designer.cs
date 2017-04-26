@@ -173,6 +173,34 @@ namespace SICDDAL
 			IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())), keywords);
 			return ((ISingleResult<QuickSearchWsbSelectSingleResult>)(result.ReturnValue));
 		}
+		
+		[global::System.Data.Linq.Mapping.FunctionAttribute(Name="dbo.ICDCheck_codename")]
+		public ISingleResult<ICDCheck_codenameResult> ICDCheck_codename([global::System.Data.Linq.Mapping.ParameterAttribute(Name="ICD", DbType="VarChar(200)")] string iCD)
+		{
+			IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())), iCD);
+			return ((ISingleResult<ICDCheck_codenameResult>)(result.ReturnValue));
+		}
+		
+		[global::System.Data.Linq.Mapping.FunctionAttribute(Name="dbo.ICDCheck_exclude")]
+		public ISingleResult<ICDCheck_excludeResult> ICDCheck_exclude([global::System.Data.Linq.Mapping.ParameterAttribute(Name="ICD", DbType="VarChar(200)")] string iCD)
+		{
+			IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())), iCD);
+			return ((ISingleResult<ICDCheck_excludeResult>)(result.ReturnValue));
+		}
+		
+		[global::System.Data.Linq.Mapping.FunctionAttribute(Name="dbo.ICDCheck_include")]
+		public ISingleResult<ICDCheck_includeResult> ICDCheck_include([global::System.Data.Linq.Mapping.ParameterAttribute(Name="ICD", DbType="VarChar(200)")] string iCD)
+		{
+			IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())), iCD);
+			return ((ISingleResult<ICDCheck_includeResult>)(result.ReturnValue));
+		}
+		
+		[global::System.Data.Linq.Mapping.FunctionAttribute(Name="dbo.ICDCheck_list")]
+		public ISingleResult<ICDCheck_listResult> ICDCheck_list([global::System.Data.Linq.Mapping.ParameterAttribute(Name="ICD", DbType="VarChar(200)")] string iCD)
+		{
+			IExecuteResult result = this.ExecuteMethodCall(this, ((MethodInfo)(MethodInfo.GetCurrentMethod())), iCD);
+			return ((ISingleResult<ICDCheck_listResult>)(result.ReturnValue));
+		}
 	}
 	
 	public partial class ExternalInjurySelectSingleResult
@@ -1072,6 +1100,236 @@ namespace SICDDAL
 				if ((this._term != value))
 				{
 					this._term = value;
+				}
+			}
+		}
+	}
+	
+	public partial class ICDCheck_codenameResult
+	{
+		
+		private string _code_name_ch;
+		
+		private string _code_type;
+		
+		private System.Nullable<int> _page;
+		
+		public ICDCheck_codenameResult()
+		{
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_code_name_ch", DbType="NVarChar(255)")]
+		public string code_name_ch
+		{
+			get
+			{
+				return this._code_name_ch;
+			}
+			set
+			{
+				if ((this._code_name_ch != value))
+				{
+					this._code_name_ch = value;
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_code_type", DbType="NVarChar(2)")]
+		public string code_type
+		{
+			get
+			{
+				return this._code_type;
+			}
+			set
+			{
+				if ((this._code_type != value))
+				{
+					this._code_type = value;
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_page", DbType="Int")]
+		public System.Nullable<int> page
+		{
+			get
+			{
+				return this._page;
+			}
+			set
+			{
+				if ((this._page != value))
+				{
+					this._page = value;
+				}
+			}
+		}
+	}
+	
+	public partial class ICDCheck_excludeResult
+	{
+		
+		private string _code_type;
+		
+		private string _code;
+		
+		private string _content;
+		
+		public ICDCheck_excludeResult()
+		{
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_code_type", DbType="NVarChar(2)")]
+		public string code_type
+		{
+			get
+			{
+				return this._code_type;
+			}
+			set
+			{
+				if ((this._code_type != value))
+				{
+					this._code_type = value;
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_code", DbType="NVarChar(40)")]
+		public string code
+		{
+			get
+			{
+				return this._code;
+			}
+			set
+			{
+				if ((this._code != value))
+				{
+					this._code = value;
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_content", DbType="NVarChar(266)")]
+		public string content
+		{
+			get
+			{
+				return this._content;
+			}
+			set
+			{
+				if ((this._content != value))
+				{
+					this._content = value;
+				}
+			}
+		}
+	}
+	
+	public partial class ICDCheck_includeResult
+	{
+		
+		private string _code_type;
+		
+		private string _code;
+		
+		private string _content;
+		
+		public ICDCheck_includeResult()
+		{
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_code_type", DbType="NVarChar(2)")]
+		public string code_type
+		{
+			get
+			{
+				return this._code_type;
+			}
+			set
+			{
+				if ((this._code_type != value))
+				{
+					this._code_type = value;
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_code", DbType="NVarChar(40)")]
+		public string code
+		{
+			get
+			{
+				return this._code;
+			}
+			set
+			{
+				if ((this._code != value))
+				{
+					this._code = value;
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_content", DbType="NVarChar(266)")]
+		public string content
+		{
+			get
+			{
+				return this._content;
+			}
+			set
+			{
+				if ((this._content != value))
+				{
+					this._content = value;
+				}
+			}
+		}
+	}
+	
+	public partial class ICDCheck_listResult
+	{
+		
+		private string _code;
+		
+		private System.Nullable<int> _page;
+		
+		public ICDCheck_listResult()
+		{
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_code", DbType="NVarChar(285)")]
+		public string code
+		{
+			get
+			{
+				return this._code;
+			}
+			set
+			{
+				if ((this._code != value))
+				{
+					this._code = value;
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_page", DbType="Int")]
+		public System.Nullable<int> page
+		{
+			get
+			{
+				return this._page;
+			}
+			set
+			{
+				if ((this._page != value))
+				{
+					this._page = value;
 				}
 			}
 		}

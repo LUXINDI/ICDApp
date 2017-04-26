@@ -131,4 +131,35 @@
       <Column Name="term" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
     </ElementType>
   </Function>
+  <Function Name="dbo.ICDCheck_codename" Method="ICDCheck_codename">
+    <Parameter Name="ICD" Parameter="iCD" Type="System.String" DbType="VarChar(200)" />
+    <ElementType Name="ICDCheck_codenameResult">
+      <Column Name="code_name_ch" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="code_type" Type="System.String" DbType="NVarChar(2)" CanBeNull="true" />
+      <Column Name="page" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.ICDCheck_exclude" Method="ICDCheck_exclude">
+    <Parameter Name="ICD" Parameter="iCD" Type="System.String" DbType="VarChar(200)" />
+    <ElementType Name="ICDCheck_excludeResult">
+      <Column Name="code_type" Type="System.String" DbType="NVarChar(2)" CanBeNull="true" />
+      <Column Name="code" Type="System.String" DbType="NVarChar(40)" CanBeNull="true" />
+      <Column Name="content" Type="System.String" DbType="NVarChar(266)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.ICDCheck_include" Method="ICDCheck_include">
+    <Parameter Name="ICD" Parameter="iCD" Type="System.String" DbType="VarChar(200)" />
+    <ElementType Name="ICDCheck_includeResult">
+      <Column Name="code_type" Type="System.String" DbType="NVarChar(2)" CanBeNull="true" />
+      <Column Name="code" Type="System.String" DbType="NVarChar(40)" CanBeNull="true" />
+      <Column Name="content" Type="System.String" DbType="NVarChar(266)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.ICDCheck_list" Method="ICDCheck_list">
+    <Parameter Name="ICD" Parameter="iCD" Type="System.String" DbType="VarChar(200)" />
+    <ElementType Name="ICDCheck_listResult">
+      <Column Name="code" Type="System.String" DbType="NVarChar(285)" CanBeNull="true" />
+      <Column Name="page" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
 </Database>

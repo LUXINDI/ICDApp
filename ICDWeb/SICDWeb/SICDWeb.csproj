@@ -114,6 +114,7 @@
     <Compile Include="Controllers\DiseaseInjuryController.cs" />
     <Compile Include="Controllers\DrugChemicalController.cs" />
     <Compile Include="Controllers\ExternalCauseController.cs" />
+    <Compile Include="Controllers\ICDCheckController.cs" />
     <Compile Include="Controllers\LandTransportController.cs" />
     <Compile Include="Controllers\QuickSearch301Controller.cs" />
     <Compile Include="Controllers\QuickSearchBjController.cs" />
